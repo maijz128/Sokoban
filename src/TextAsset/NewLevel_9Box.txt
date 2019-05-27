@@ -1,0 +1,42 @@
+:::::::::::::::: MS Advanture :::::::::::::::::::
+========== II ============
+Level 1 : "Oceanus", by Brian Damgaard (8x8,Box:9,BestMove:309)
+
+########
+# .  . #
+#. $*$.#
+# #  $ #
+#.  $# #
+#.$# $*#
+#    $+#
+########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Pushes (Built-in) Best Solution 309/75 (YASO 2.139 Optimizer)
+UUULLDllluuurrrDLulldddrrrUrrdddLLUUllluuurrdDuurrrDDlLUdrruulDlddddrr
+uUULullulldddddrRRRluuUruuLLdRdrrddLdlllluuuuRRurrrDDllUlllddddrrrUUUr
+ruulDLLuRdddddllluurRUruulDrdDllluuuRldddrrruulLulDrrruLdrrruLdlddllld
+drrrrurUULullllDDrrrUrrddldlllUdrrUUlLrrdrruuluLLLrDurrdrddlluUruurDDD
+ullluuRldRRlddddlluuRlddrruUU
+
+========== III ============
+
+Level 2 : "Iapetus", by Brian Damgaard (8x8,Box:9,BestMove:424)
+
+########
+# $   +#
+#  $ #*#
+#  $ # #
+# *$$  #
+#**.#  #
+# .. . #
+########
+
+Author: YASGen & Brian Damgaard
+Solution/Moves 408/120 (YASO 2.139 Optimizer)
+llddLDRuuulDlluRdrrddlUruurrDDDLddllllUUURRlldddrrUUddlluRluuruulDrdDl
+ddrrrruuLULrdrruuullLDllDDrUdRRuLuurrrdddLddllUUUdddrruuLulDlluRdrrrdd
+llllUdrrrruulllDldRuuulDrrrrruuullDDLdRuuulDrddllluuRRurDlllddrddlUruU
+luuRDrrurrdddLLLUdrrddlLUllUURDRddrruuLrruuulldDLDlluRuulDrddrRuuuLrdd
+dlluuRurDllluRdddlUrurrurrdddLLLUluuRRdLdlldddRRUUrULuullDDDRDrUlluuRD
+DrrrruuuLLDDuurrdddlddrUUUdlLLddRluuruuLDDDuulluRuRRRllDDD

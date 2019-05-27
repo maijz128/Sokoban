@@ -1,0 +1,64 @@
+============= II ================
+
+Level 1 : erim112-second collection (9x8,Box:13,BestMove:61)
+
+  ####
+###  ###
+#.* $  #
+#*.* $ ##
+#.*.$ $ #
+#*.* $ @#
+#.* $ ###
+#######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 61/24 (YASO 2.139 Optimizer)
+lUlLuLuLrdrddLdLruULUdrrrrdLLuuLuurDDurrDLLrdLLrrdrruLLLrddLL
+
+
+============= III ================
+
+Level 2 : Advanture "Theia", by Brian Damgaard (8x8,Box:13,BestMove:371)
+
+########
+#@$  . #
+#$$** .#
+#.   $ #
+#.$**$.#
+#  .$ $#
+#. *.  #
+########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 371/115 (YASO 2.139 Optimizer)
+DDDDrrRdrrUUULLDDuurrdLuuurDlddrddlUlllluurRRDullluuRDuRRDLrrrDDLUddLL
+UURuulllddRRddrruruuuLLLDDllddRRULuluuRDrDLurrurrdLrddlULrddLUrruuullL
+dlddRRdrdrUUUlDllluururrDDrdLLrrddlUruuluulldRlldddRRuUrrdLrddlUllluuu
+rurrDulldRlldddrrUULulDruurrrDDDLdllUUluluRRRDLdddrruruuLLulDDuulldRur
+rdrrddlUddlllUUrRuulDulldRdddrrruruuLrddlUddllluuRRDrruuuLLDDRluurrdLd
+drUldddrUlLruullluuRR
+
+============= IV ================
+
+Level 3 : "Hera", by Brian Damgaard (9x8,Box:13,BestMove:580)
+
+#########
+#.$.  *@#
+#  .$*$$#
+## $* * #
+#   *   #
+# #$.$#.#
+#.$ .  .#
+#########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 580/174 (YASO 2.139 Optimizer)
+LLDDuLLDRlldlddRRRuULuuuLDrrruLdlddrRULuurrrDDLLrruulDulldlluRdrRddlUr
+uurrdLrdDLUlldddllluuRURuuRRDLDDRUllldRuruullDRdrrrruuLDuLLDRllddllddr
+rrRRlUUULuurrrddLLrruulDulldlluRdrRddLUruurrdLrddLUlldRddlllluurRlURuu
+RRDDrruuLDlLullDRddllddrrrruULLuuurRdrrddLLddllUUUdddlluuRlddrrrruurru
+ullullldDrDRRddlllluuRuuurrrdDLdDuuruullldddRllddrrUrrUUlDLddlluuRuuur
+rrDrrddLLdLrurruullDurrddlUluulllddRRDRUllldRurrrruuLDuLLDRddddLLLrUUR
+DulluuRRDuurrrddLLrruulDulldRlllddrUddrrUULuurrrddLLddlluluuuRRRDDrruu
+LDllulldRlddrUddrrUULDlluuurrRDrrddLUdLLuRuulllddRRUddrrruuLLrrddlUdll
+ulldRurRuuLDrddrruuL

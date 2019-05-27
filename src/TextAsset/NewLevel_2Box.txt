@@ -1,0 +1,515 @@
+====== II ==============
+
+Level 1 : David W. Skinner, Microban 51 (8x7,Box:2,BestMove:34)
+
+####
+#  ###
+#    ###
+#  $*@ #
+### .# #
+  #    #
+  ######
+
+Author:
+Solution/Moves (Built-in) Snapshot
+rddllluURuLdlluurDldRRurDlddrrruuL
+
+
+Level 2 : David W. Skinner, Microban 56 (7x6,Box:2,BestMove:23)
+
+#####
+#   ###
+#  $  #
+##* . #
+ #   @#
+ ######
+
+Author:
+Solution/Moves (Built-in) Snapshot
+uulLulldRurDrddllURuulD
+
+
+Level 3 : David W. Skinner, Microban II-1 (6x8,Box:2,BestMove:44)
+
+####
+#  #
+#  #
+#  ###
+#.$$@#
+#  . #
+#  ###
+####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+dllUdrruLLUluurDDlDRdrruLdldlUUUrDldRuuuulDD
+
+
+Level 4 : David W. Skinner, Microban II-2 (6x8,Box:2,BestMove:27)
+
+ #####
+ #   #
+##.# #
+#  @ #
+#  $ #
+# #*##
+#   #
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+rdLulldddrrUUruLdddlluuRUrD
+
+
+Level 5 : David W. Skinner, Microban II-3 (7x8,Box:2,BestMove:46)
+
+   ####
+####  #
+#  #  #
+# . . #
+# @$$ #
+# # ###
+#   #
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+urDurrdLLulldddrrUUddlluuRuRlldddrruUrULrruulD
+
+
+Level 6 : David W. Skinner, Microban II-7 (7x7,Box:2,BestMove:47)
+
+  #####
+###   #
+#  $# #
+#  .$ #
+## ##.#
+ #   @#
+ ######
+
+Author:
+Solution/Moves (Built-in) Snapshot
+uuLLrruullDurrddddllluURRluurrdDlllluRdrrruullD
+
+
+Level 7 : David W. Skinner, Microban IV-1 (8x6,Box:2,BestMove:30)
+
+   #####
+####@  #
+#  $*. #
+#     ##
+#  #####
+####
+
+Author:Author: David W. Skinner
+Solution/Moves (Built-in) Snapshot
+DLdlluRRRurrdLdLLuRlllddrUluRR
+
+
+Level 8 : erim047-second collection (8x8,Box:2,BestMove:87)
+
+   ####
+####  #
+#@   $#
+#  #. ##
+## .#  #
+ #$    #
+ #  ####
+ ####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 83/24 (YASO 2.139 Optimizer)
+rrrurDDulllddrddlUUUluRRRdrDrdLLruulullddddrUluuurrurDDDrdLLLdlUUUluRR
+ldddrrruuuulD
+
+
+Level 9 : erim150-second collection (7x6,Box:2,BestMove:53)
+
+ ######
+ #  ..#
+##$ # #
+#   $ #
+#  @###
+#####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 45/12 (YASO 2.139 Optimizer)
+uuulDrddlluRdrUluurrrddLLUluRRldddlluRdrUUluR
+
+
+Level 10 : erim236-fifth collection (9x8,Box:2,BestMove:67)
+
+    #####
+#####   #
+#..   # #
+# $$#  ##
+# #  # #
+###  # #
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 67/10 (YASS 2.138 Solver) Snapshot
+uuulullDDuulldRurrrdrdddlluulUdrddrruuululLLrddrddlUUUdddrrruuululL
+
+
+====== III ===========
+
+
+Level 11 : "MiniCosmos 29", by Aymeric du Peloux (8x9,Box:2,BestMove:58)
+
+########
+#   #  #
+#      #
+## #.  #
+#    ###
+# # . #
+# $$# #
+###  @#
+  #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+llUUruuullddlddRluurRdrUUddrddllUUdlluurRluurRdDurruulDrdL
+
+
+Level 12 : "MiniCosmos 31", by Aymeric du Peloux (7x8,Box:2,BestMove:74)
+
+#####
+#   ##
+# #  ##
+#. #$ #
+#  @  #
+#.##$##
+#    #
+######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+lluuurrdrDrdLuululldddddrrrUULLuluurrdrDrdLddllluUUdddrrruuLLulDrrruulullD
+
+
+Level 13 : "MiniCosmos 32", by Aymeric du Peloux (7x8,Box:2,BestMove:91)
+
+####
+#  ###
+#    ##
+# .#$ #
+## @  #
+ #.#$##
+ #   #
+ #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+luurrDrdLuullddddrrUULrddlluUUluurDrrDrdLddlluuUluRddddrruuLrddlluUUluurDDDrruuLrddlluluurD
+
+
+Level 14 : David W. Skinner, Microban 11 (9x8,Box:2,BestMove:78)
+
+  ######
+  #    #
+  # ##@##
+### # $ #
+# ..# $ #
+#       #
+#  ######
+####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+ulllddddrrrruLdllluuuurrrdDDrdLLLLullddrUluRdrrrruulDrdLLLUllddrUrrrruuuullldD
+
+
+Level 15 : David W. Skinner, Microban 14 (7x6,Box:2,BestMove:51)
+
+#######
+#     #
+# # # #
+#. $*@#
+#   ###
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+uulllldddrrUlluurrrrddLLLrrruullDurrddlLdllURRuullD
+
+
+Level 16 : David W. Skinner, Microban 18 (7x9,Box:2,BestMove:71)
+
+#######
+#     #
+#. .  #
+# ## ##
+#  $ #
+###$ #
+  #@ #
+  #  #
+  ####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+ruuuulllddrRDrUUdllluuurrrrdLdddddlUUruuuLulldddrRdrUUdllluuurrdLurrrdL
+
+
+Level 17 : David W. Skinner, Microban 20 (9x8,Box:2,BestMove:50)
+
+#######
+#     ###
+#  @$$..#
+#### ## #
+  #     #
+  #  ####
+  #  #
+  ####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+urDDDrrruulLLLrddlddrUUUdrrruullulldRRRlllulldRRRR
+
+Level 18 : David W. Skinner, Microban 23 (7x7,Box:2,BestMove:56)
+
+#######
+#  *  #
+#     #
+## # ##
+ #$@.#
+ #   #
+ #####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+ruulluRdrdddllUUdrruululldRddrruuruLLrdddlluuRurDDullluR
+
+Level 19 : David W. Skinner, Microban 27 (7x7,Box:2,BestMove:50)
+
+######
+#   .#
+# ## ##
+#  $$@#
+# #   #
+#.  ###
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+dlULddlluuuurrrDulllddddrruuLrdrruLuullldDDurRdrUU
+
+Level 20 : David W. Skinner, Microban 39 (10x9,Box:2,BestMove:85)
+
+#####
+#   ####
+# # # .#
+#    $ ###
+### #$.  #
+#   #@   #
+# # ######
+#   #
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+ruuLLLuullddRluurrdDrrrddlUruLLLuullddRRRRurDlllDDllddrrUUUUlluurrDullddrRRRdRUddrruL
+
+
+====== IV ===========
+
+
+Level 21 : David W. Skinner, Microban 47 (11x7,Box:2,BestMove:83)
+
+  #######
+###     #
+# $ $   #
+# ### #####
+# @ . .   #
+#   ###   #
+##### #####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+rrruuulldRRddlllluuRRRurDDullllddrrrRRRdrruLLLLLLrruuurrdLulDDulllldddrrurRlldlluRR
+
+Level 22 : David W. Skinner, Microban 50 (10x7,Box:2,BestMove:80)
+
+  ####
+###  #####
+#  $  @..#
+# $    # #
+### #### #
+  #      #
+  ########
+
+Author:
+Solution/Moves 76/23 (YASO 2.139 Optimizer)
+llulDDulldRRRurrrrdddlllllUUrurrdLLuLDlluRRRdrrurrdddlllllUUruRRRllldl
+luRRRR
+
+=========================Advanture =====================
+
+Level 23 : David W. Skinner, Microban 55 (10x8,Box:2,BestMove:64)
+
+
+########
+# @ #  #
+#      #
+#####$ #
+    #  ###
+    #$ ..#
+    #  ###
+    ####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+drrrrddlUrdddlUUruuLLLulldRRRRurDDDldRRlluUruLLLulldRRRRurDDDldR
+
+
+Level 24 : David W. Skinner, Microban 57 (8x9,Box:2,BestMove:60)
+
+  ####
+  #  #
+  #@ #
+  #  #
+### ####
+#    * #
+#  $   #
+#####. #
+    ####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+dddrdrruLLdLUlldRRRluUUruulDDDDldRurrrddlUruLLLdRurDlllluRRR
+
+
+Level 25 : David W. Skinner, Microban II-4 (10x8,Box:2,BestMove:61)
+
+ #####
+## @ ####
+#  #  . ##
+# #      #
+# $$ #.  #
+##    ####
+ ##   #
+  #####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+rddlDruuulldlddRdRdrUUdlluRuRRurrddlUlllddrUluRRRdrruLuLDlluR
+
+
+Level 26 : David W. Skinner, Microban II-5 (8x7,Box:2,BestMove:61)
+
+######
+#    #
+# $$ ###
+### @  #
+  #  . #
+  ## .##
+   ####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+uulDulldRRurDDrddlUlURuLddrrruLdlluurDldRurDlluuulldRRurDDldR
+
+
+Level 27 : David W. Skinner, Microban II-6 (9x8,Box:2,BestMove:55)
+
+   ####
+####  #
+#@.*  #
+#  #  ###
+####  $ #
+   #  # #
+   ##   #
+    #####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+rRRdddrdrruuLLuluurDDDrrddllUlUUruLLrdddrdrruulLdlUUruL
+
+
+Level 28 : David W. Skinner, Microban II-22 (11x9,Box:2,BestMove:94)
+
+ #########
+ #    #  #
+ # $ $   #
+ ## ###  #
+### # #@###
+#   ###   #
+# # . .   #
+#   #######
+#####
+
+Author:
+Solution/Moves (Built-in) Snapshot
+uulLullDRRRlllDDDllddrrUUUUdddrrrruuuruulDDDDuuulllulldRRRRlllddddrrrRurrdLLLLrruuuruulDDDDrdL
+
+
+Level 29 : "MiniCosmos 05", by Aymeric du Peloux (8x9,Box:2,BestMove:104)
+
+    ####
+#####  #
+#   $  #
+# *.#  #
+## ## ##
+#      #
+# @#   #
+#  #####
+####
+
+Author:Author: Aymeric du Peloux
+Best Solution 104/26 (YASS 2.138 Solver) Snapshot
+uuUruRldlddrrruuruulDDDuulldlluRRRlldddrrdrruLLLrruuruulDDDuulllddDlddrUUUdrrdrruLLLrruuulllldRdDlddrUUU
+
+
+Level 30 : "MiniCosmos 23", by Aymeric du Peloux (11x9,Box:2,BestMove:125)
+
+      ####
+#######  #
+#        #
+#  $ #.# #
+#  $## # ##
+###   @   #
+  ###  #  #
+    ##.  ##
+     #####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 99/35 (YASO 2.139 Optimizer)
+uuulldLullddrUluRRRRRRurDDDDllddrrUruLddlluulllUUluRRRRRurDDDDLLddrrUr
+uLLruuullddDDuuuullldddrRdrUU
+
+====================================================================================
+
+Level 31 : "MiniCosmos 27", by Aymeric du Peloux (8x9,Box:2,BestMove:103)
+
+ ####
+ #  ####
+ #     #
+ # #.  #
+##*##$##
+#      #
+# # @  #
+#    ###
+######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Best Solution 103/26 (YASO 2.139 Optimizer)
+ruUUlulldDuurrdrdddlldlluuRRdrruuuruLLLulDDDuurrrddddlluRdrUUddlldlluu
+RuuurrrrdLullldddRRdrUUUruLLLulDD
+
+
+Level 32 : David W. Skinner, Microban 29 (11x9,Box:2,BestMove:104)
+
+     #####
+     #   ##
+     #    #
+ ######   #
+##     #. #
+# $ $ @  ##
+# ######.#
+#        #
+##########
+
+Author:
+Solution/Moves (Built-in) Snapshot
+ullldRurrdrrddllllllluuRurrdRRRlllulldlddrrrrrrruUUUddllllulldRRRRRllllllddrrrrrrruUUruuLDDDuuuulldRurDD

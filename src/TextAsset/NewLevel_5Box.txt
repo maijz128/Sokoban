@@ -1,0 +1,1950 @@
+================== Advanture ====================
+============ II ================
+
+Level 1 : erim220-fourth collection (8x8,Box:5,BestMove:53)
+
+ #####
+##   #
+#  # #
+# $$ ###
+# *.*$ #
+# .#.  #
+#   @###
+######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 53/11 (YASO 2.139 Optimizer)
+llluuRluurDDlddrrruUULrddrruLdldllluuuurDrrDulluurrDD
+
+
+Level 2 : erim226-fourth collection (8x8,Box:5,BestMove:56)
+
+  ######
+  #    #
+### #  #
+#  *** #
+#  *+$ #
+### #  #
+  #   ##
+  #####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 56/13 (YASO 2.139 Optimizer)
+LddrruruLUruullldDDRlulldRRuuurrrddlLrruulDrdLrddlUddllU
+
+
+Level 3 : erim238-fifth collection (9x8,Box:5,BestMove:40)
+
+    #####
+#####  @#
+#   # $ #
+# $$.$ ##
+# ..$. #
+###. # #
+  #    #
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 40/10 (YASO 2.139 Optimizer)
+dLddddllluulluurDurDDRddrruuLLrruLruulDD
+
+
+Level 4 : erim240-fifth collection (9x8,Box:5,BestMove:51)
+
+    #####
+#####   #
+#   .$  #
+# ##$. ##
+#  ..$$#
+### $. #
+  #  #@#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 51/11 (YASO 2.139 Optimizer)
+uUdlLullluurrrRdDlddlUruruulDruurrdLLddrUluurrdLulD
+
+
+Level 5 : erim242-fifth collection (9x8,Box:5,BestMove:45)
+
+    #####
+##### . #
+# $...* #
+# $  # ##
+#   #  #
+###$ $ #
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 45/14 (YASO 2.139 Optimizer)
+uuuUddddlllUUlluuRRRlllddrUluRRlddrUddrRdrUUU
+
+
+Level 6 : erim244-fifth collection (9x8,Box:5,BestMove:48)
+
+    #####
+#####   #
+#    .$ #
+# $##.$##
+# $... #
+### #$ #
+  ##  @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 48/15 (YASO 2.139 Optimizer)
+lUruLuuurrdLulDDDrddlUruUluurrdLulDllllddRUluRRR
+
+
+Level 7 : erim248-fifth collection (9x8,Box:5,BestMove:80)
+
+    #####
+#####   #
+#     . #
+# #$##.##
+# $@*..#
+###$ $ #
+  #    #
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 80/18 (YASS 2.138 Solver) Snapshot
+RddrruuuulllllddRRUdlluurRRRurrdLddddlluRdrUdlllUUlluurrrRurDlllllddrrUdlluurRRR
+
+
+Level 8 : erim249-fifth collection (9x8,Box:5,BestMove:67)
+
+    #####
+#####   #
+#   #$$@#
+# $ #. ##
+#  .*.$#
+###.#  #
+  #    #
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 67/20 (YASO 2.139 Optimizer)
+ullDDDLLddrrUrULuuurrdLulDDDrUluurrdLulDrddddlUdlluuuulldRurDDulldR
+
+
+Level 9 : erim252-fifth collection (9x8,Box:5,BestMove:50)
+
+    #####
+#####   #
+#   ..* #
+# #.*  ##
+#   $###
+###$ $ #
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 50/17 (YASO 2.139 Optimizer)
+lllUUURururrdLdLLuRldDllluurRRddlddrUUUdddrruLdlUU
+
+
+Level 10 : erim257-fifth collection (9x8,Box:5,BestMove:84)
+
+    #####
+#####   #
+#   $ $ #
+# #.#. ##
+# $.*.$#
+### #  #
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 84/20 (YASO 2.139 Optimizer)
+uUluuurrdLulDDDrddllluuuuRRddLrrddllluUddrrUruLuuurrdLulDDDrddlUruUluu
+rrdLulDllllddR
+
+
+Level 11 : "MicroCosmos 06", by Aymeric du Peloux (8x8,Box:5,BestMove:65)
+
+ #####
+ #   #
+ # # ##
+## *  ##
+# $*$  #
+#  * # #
+## .  +#
+ #######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+lllluRdrrruululLDDlluRUrDurrdLulldddRRRlUULDlluRdrruruLuullDDDldR
+
+
+Level 12 : "MicroCosmos 35", by Aymeric du Peloux (8x7,Box:5,BestMove:70)
+
+########
+#   *  #
+# +*** #
+##  $  #
+ ##   ##
+  ##  #
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+drdrruruulDuLLDRDulldRdRUluurrrddLLdlUluluRRRDLddrUrruuLDrdLLdlUrddrUU
+
+
+Level 13 : "NaboKosmos 01", by Aymeric du Peloux (8x7,Box:5,BestMove:70)
+
+ #####
+ #   ##
+## * .##
+# $$*  #
+#  * . #
+## @ ###
+ #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+ruruulLrrddldlluRURlddrUrUdlluRuulDDrdrruLLddlluRUdlluRdrRuuullDDldRuR
+
+
+Level 14 : "NaboKosmos 15", by Aymeric du Peloux (9x7,Box:5,BestMove:97)
+
+ #######
+##  #  ##
+#  **$. #
+#   #   #
+##  *  ##
+ #  * @#
+ #######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Best Solution 97/35 (YASO 2.139 Optimizer)
+uuuulDrddlLLdRluuluurDRRDuurDrdLdLLdllUUluRRRRDrddLLuRuulllddRluurrrdr
+ruLLdddrUUluLLDlluRRldddRUU
+
+
+Level 15 (8x7,Box:5,BestMove:78)
+
+########
+#@$ .  #
+# ***. #
+##   $ #
+ ##   ##
+  ##  #
+   ####
+
+Author:
+Best Solution 78/31 (YASS 2.138 Solver) Snapshot
+RRDulldRdRdrrUruulDuLLDRDulldRdRUluurrrddLLdlUluluRRRDLddrUrruuLDrdLLdlUrddrUU
+
+
+Level 16 (7x9,Box:5,BestMove:51)
+
+  ####
+  #  #
+### $##
+# $.  #
+# $.  #
+#  .$##
+###* #
+  #+##
+  ###
+
+Author:
+Best Solution 51/19 (YASO 2.139 Optimizer)
+UUlluuRRDrruLLdDDrUluurrdLulDDuuuurDDrdLdllluuRDldR
+
+
+Level 17 (8x8,Box:5,BestMove:93)
+
+########
+#      #
+# ## # #
+#   $  #
+## $ ###
+ #*$$.#
+ #+. .#
+ ######
+
+Author:
+Best Solution 93/23 (YASO 2.139 Optimizer)
+UURuRuulllddRdddrUdrruLdlluuuluurrrddDDrdLLruuuuurrddLruulldDDDLdRuuuu
+ulllddrRlluurrrdDDulDDR
+
+
+Level 18 (7x7,Box:5,BestMove:31)
+
+ ######
+## .$@#
+#  $$ #
+#. * *#
+#     #
+#  . ##
+######
+
+Author:
+Best Solution 31/14 (YASO 2.139 Optimizer)
+LDDLddrUluLuuRDrruLdlDDrrULuurD
+
+
+Level 19 (7x7,Box:5,BestMove:33)
+
+ ######
+## .  #
+#   $ #
+#* . .#
+# $$  #
+#@$. ##
+######
+
+Author:
+Best Solution 33/14 (YASO 2.139 Optimizer)
+RUUruulDlDRddlUruRRUruLddddLUlldR
+
+
+Level 20 (6x8,Box:5,BestMove:27)
+
+ ####
+##@ #
+# $$#
+##  ##
+## $ #
+#* $ #
+#....#
+######
+
+Author:
+Best Solution 27/14 (YASO 2.139 Optimizer)
+DDDDRdLuuurDrDLulDuuuurDDDD
+
+=====================================================
+
+Level 21 (6x8,Box:5,BestMove:27)
+
+ ####
+##  #
+#@$ #
+##$ ##
+## $ #
+#* $ #
+#....#
+######
+
+Author:
+Best Solution 27/14 (YASO 2.139 Optimizer)
+RDDDRdLuuurDrDLulDuuuurDDDD
+
+
+Level 22 (6x8,Box:5,BestMove:33)
+
+ ####
+##@ #
+# $$#
+##  ##
+## $ #
+#.$  #
+#..*.#
+######
+
+Author:
+Best Solution 33/14 (YASO 2.139 Optimizer)
+DDrDrddLLrruulDLdRuuulDDuuuurDDDD
+
+Level 23 : David W. Skinner, Sasquatch VII-7 (9x8,Box:5,BestMove:75)
+
+  ####
+  #  ###
+### .  ##
+#   .#  #
+# $$*$$ #
+### .  ##
+  # . @#
+  ######
+
+Author:
+Solution/Moves 75/22 (YASO 2.139 Optimizer)
+llluUUrDldRdrruULLulDulldRRuruulDrdDlluRurrrDrdLddlllUUrUdlluRdddrrruu
+LDrdL
+
+
+Level 24 : David W. Skinner, Sasquatch IX-5 (9x9,Box:5,BestMove:60)
+
+####
+#  ###
+#  . #
+# .$.####
+## *    #
+ # $$@$ #
+ # .#####
+ #  #
+ ####
+
+Author:
+Solution/Moves (Built-in)
+ulLruulldRdDlUdddrUUUUdrrdLurrrdLLulllddrUluRRRdLulDrrrruLLL
+
+
+Level 25 : David W. Skinner, Sasquatch XII-13 (7x9,Box:5,BestMove:87)
+
+######
+#  @ ##
+#  #  #
+#.$#$.#
+#  *  #
+#.$#$.#
+#  #  #
+##    #
+ ######
+
+Author:
+Solution/Moves 87/26 (YASO 2.139 Optimizer)
+lldddrRRDrddlUUrULLLUluurrrdDurDDDlddlluluUUdrrRdrUllllddrUddrrrUluulL
+rruuullDDlDRuuulD
+
+
+Level 26 : David W. Skinner, Sasquatch XII-15 (9x9,Box:5,BestMove:82)
+
+########
+#  ##  ##
+#  .$.  #
+#  #$#  #
+##  *  @#
+## #$# ##
+#  .$. #
+#   #  #
+########
+
+Author:
+Solution/Moves 82/24 (YASO 2.139 Optimizer)
+llLLrrrddlLLdlluRRRUdlluUUluurDDDDuuurRRurDrddllLUdrrruullLddrrUruLddl
+lddldlluRuuR
+
+
+Level 27 : David W. Skinner, Microban 116 (10x7,Box:5,BestMove:63)
+
+     #####
+   ###   #
+####.....#
+# @$$$$$ #
+#     # ##
+#####   #
+    #####
+
+Author:
+Solution/Moves (Built-in)
+drrrdrruUruulldllDurrRdddlluUluRdRlddrruUlllLdlluRRdRUrrrddllUU
+
+
+Level 28 : David W. Skinner, Microban II-61 (10x6,Box:5,BestMove:94)
+
+#####
+#   #
+#   ######
+#$$$$ $ @#
+#.....   #
+##########
+
+Author:
+Solution/Moves (Built-in)
+dllluRdlllURdlllURuulDDrdrruLdlUluurrDDrdrruLLLuullddRdRRlluluurrdDldRulluRurDDrrrdrruLLLLLulD
+
+
+Level 29 : David W. Skinner, Microban II-89 (8x9,Box:5,BestMove:67)
+
+########
+#      #
+# #.#  #
+#  *   #
+##$*$ ##
+#  *@##
+# #.##
+#   #
+#####
+
+Author:
+Solution/Moves (Built-in)
+UdLddlluuRURURldDrUrUruulllDDDrruLrruullldDuullddRdRUrrruulDrdLLrdL
+
+
+Level 30 : David W. Skinner, Microban II-127 (10x7,Box:5,BestMove:54)
+
+#####
+#@  ######
+#  $ #   #
+#.*.*. $ #
+#  $ #####
+##   #
+ #####
+
+Author:
+Solution/Moves (Built-in)
+dddrUluurrDrDLLrrrrurrdLLLLululldRdRRlluurDldddrrULdlU
+
+
+Level 31 : David W. Skinner, Microban III-10 (9x7,Box:5,BestMove:76)
+
+########
+#      #
+# $.#..##
+##$.$$@ #
+# $.#   #
+#   #####
+#####
+
+Author:
+Solution/Moves 76/17 (YASO 2.139 Optimizer)
+dlUruulllddRRdrUllluurrDullddddlluRdrUUrRuullDulldRDRddlluRuuurrrdddrr
+uLdlUL
+
+
+Level 32 : David W. Skinner, Microban III-34 (9x7,Box:5,BestMove:76)
+
+  #####
+### @ ###
+# $$$$$ #
+# ..... #
+#   #   #
+#########
+    #
+
+Author:
+Solution/Pushes (Built-in)
+lDurrDLdRdrruuLLddrUllLdlluRRRRuullDurrdddrruuLrddllulLuurDlddlluuRRurrDLulD
+
+
+Level 33 : David W. Skinner, Microban IV-17 (7x8,Box:5,BestMove:90)
+
+#####
+#   ###
+#  @  #
+##$*#.#
+ #  $$#
+ # .. #
+ #  * #
+ ######
+
+Author:Author: David W. Skinner
+Solution/Moves (Built-in)
+lDDrddlUrrrdLuluUluurDrrdDLdllUUddrruLdlUrrruullDDrddrUUlllddRluRuuuulldRurDDDlUruulldRurD
+
+
+Level 34 : The Warehouse Volume I - Vertical Mobility 42 (9x9,Box:5,BestMove:96)
+
+     ####
+ #####  #
+##  # @ #
+#  $.$  #
+#  .*. ##
+###$.$##
+  #   #
+  #  ##
+  ####
+
+Author:Author: Rick Sladkey
+Solution/Pushes (Built-in)
+lDlLdlluRRdDrddlUUUluurDRDDlUruRurrdLdLLuRlddlddrUrUUluLDlluRRdrrrUruulDlDurrdLdLddllUdrruuruulD
+
+
+Level 35 : Yoshio Murase, Handmade 007 (9x9,Box:5,BestMove:51)
+
+  #####
+  #   #
+### #$#
+#  .$.###
+# #$+$  #
+#  .$ # #
+### #.  #
+  #   ###
+  #####
+
+Author:Author: Yoshio Murase
+Solution/Pushes (Built-in)
+RdddlluulluurruurrDDDuuullddRlllddrrUdddrrurruuLLDL
+
+====================== III =============================
+
+Level 36 : Yoshio Murase, Handmade 015 (7x8,Box:5,BestMove:51)
+
+ #####
+ #   #
+ #. $#
+ # $ #
+##.. ##
+# **$ #
+#  @  #
+#######
+
+Author:Author: Yoshio Murase
+Solution/Pushes (Built-in)
+lUdrrULuUrDulluurrDDuLddddrruLdlUUUrDlddrruLuuuulDD
+
+
+Level 37 : Yoshio Murase, Handmade 052 (7x8,Box:5,BestMove:81)
+
+######
+#    #
+#    #
+##$ ###
+# $   #
+#.***.#
+#  @  #
+#######
+
+Author:Author: Yoshio Murase
+Solution/Pushes (Built-in)
+lluuRRllddrrULuUrDlddrrruuLLuuulldRdDrrrddllURlUluuurrdLDDrddllURuuuulldRurDDDulD
+
+
+Level 38 : 14 (8x8,Box:5,BestMove:81)
+
+######
+#    #
+# ## ###
+#  $   #
+#$.$ $ #
+#+.##$##
+#..   #
+#######
+
+Author:
+Solution/Moves 81/19 (YASO 2.139 Optimizer)
+ruulDuuurrrddLLdlUrrrdLurrrdLLullldDrdrrrUdllluluurDDuurrdLulDurrrrdLL
+LruuulllDDD
+
+
+Level 39 : erim027-first collection (9x8,Box:5,BestMove:96)
+
+  #######
+ ##... .#
+ # $#.# #
+ #$@  $ #
+## ##$# #
+# $     #
+#   #  ##
+########
+
+Author:Author: Erim SEVER from TURKEY
+Solution/Moves 96/27 (YASO 2.139 Optimizer)
+rruurrddddllUUUdddrruuuulLddRlddrruUUdddlllldlluRRRRuullUlDDurrrrrddLd
+lUlldlluRRRRUUUdrrddLdlUUU
+
+
+Level 40 : erim038-first collection (9x8,Box:5,BestMove:97)
+
+########
+#...#  #
+# .*   ##
+##@$$$  #
+ ### $  #
+   #   ##
+   ##  #
+    ####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 97/35 (YASO 2.139 Optimizer)
+uRRDRDrruLuLLrrddlUluLulldRdRRuLdlUruLddrrRdrruLuLLLdlUrrrrddlUruLLdlU
+rrrddddlUUUruLLLrrdddlUUruL
+
+
+Level 41 : erim069-second collection (9x9,Box:5,BestMove:94)
+
+   ####
+   #  #
+ ###  #
+## $.$###
+#  .*.  #
+#  $.$  #
+###  ####
+  #@ #
+  ####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 94/24 (YASO 2.139 Optimizer)
+ruuRurrdLLuLuurDldLDlluRuRlddrUrRuulDrddLLuluRddrruLUlldRdrddlUUrruull
+ldldRRluurrruulDrdddrruL
+
+
+Level 42 : erim111-second collection (10x9,Box:5,BestMove:84)
+
+   ####
+   #  #
+####  #
+# $ $ #
+#@$   ####
+### $ $  #
+  ##  ...#
+   ## ..##
+    #####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 84/30 (YASO 2.139 Optimizer)
+RRdRluuRDrDulldRdRRRllluurDldRdrruuLDlluurDldRRurDllluuuurDDDldRRlluul
+lluRRRurDDDldR
+
+
+Level 43 : erim164-second collection (9x9,Box:5,BestMove:95)
+
+   ####
+   #  #
+####. ###
+#  $ $$@#
+# . $ . #
+### . ###
+  ##$ #
+   # .#
+   ####
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 95/30 (YASO 2.139 Optimizer)
+dlldddlUruuUluurDDDrruLdlUlLdlluRRRRdLLrrDDlUluuruurDDDrruLdlUluurDDll
+ddrUUrrdLullddrdrUlluurDR
+
+
+Level 44 : erim233-fourth collection (8x8,Box:5,BestMove:91)
+
+ #####
+##   #
+#    #
+#  $ ###
+# $$$$.#
+##   ..#
+ ####.+#
+    ####
+
+Author:Author: Erim SEVER from TURKEY
+Solution/Moves 91/30 (YASO 2.139 Optimizer)
+ullllUUddrrUULrddrruLdllluluuRDrDulldRdRRRurDlllluurDldRRRllluuuurDDDl
+dRRluRRDlluuuurDDDldR
+
+
+Level 45 : erim243-fifth collection (9x8,Box:5,BestMove:75)
+
+    #####
+#####   #
+# .   * #
+# # #$*##
+#   *  #
+### #$.#
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Solution/Moves 75/15 (YASO 2.139 Optimizer)
+llluuuurrurrdLLLLddddrrruuUdddllluuRRlluurrDrDLuuurDlllddddrrUUUdddllu
+uuurR
+
+
+Level 46 : "MicroCosmos 11", by Aymeric du Peloux (9x8,Box:5,BestMove:125)
+
+  #####
+  #+  ###
+ ##*# $ #
+ # *    #
+## * # ##
+#  *   #
+#   ####
+#####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 125/30 (YASO 2.139 Optimizer)
+rrddlddLdlluRuuRRddLruulldRddlUrrrruuLuullDDDuuurrddLruulldDrrrruLdlll
+uurrDrdddllLUUUddddlluRdrUUUlDrddlluRdrUrrruuLLDurrddlL
+
+
+Level 47 : "NaboKosmos 03", by Aymeric du Peloux (8x9,Box:5,BestMove:133)
+
+######
+#    #
+# ##$###
+# . *  #
+##  * +#
+ #  $  #
+ # #*###
+ #   #
+ #####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 133/30 (YASO 2.139 Optimizer)
+lLLuRllluurrrDDlddlUruruulllddRddrRUrrdLLulluluurrrdDuulllddrRdRUddrru
+uLLdRllldddrrUUruLdddlluuRlddrruUruulDDlluuluurrrDDLrrddlUdlluR
+
+
+Level 48 : "NaboKosmos 06", by Aymeric du Peloux (8x8,Box:5,BestMove:132)
+
+  ######
+###    #
+#  *##.#
+# #.  .#
+# $ $  #
+##$#$#@#
+ #    .#
+ #######
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 132/29 (YASO 2.139 Optimizer)
+uullldRurrdddllUURuruulllDllddRRRddrruUUdddlluuRlllluurrDullddrRRddllU
+drruuluullddRddrrrruULuLrdrddlluUddlluuRUdRddrruuLuLDDullddrRR
+
+
+Level 49 : "NaboKosmos 09", by Aymeric du Peloux (9x9,Box:5,BestMove:146)
+
+  ####
+###  ####
+# $     #
+# . *#  #
+###.@#$##
+# . *#  #
+# $     #
+######  #
+     ####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+DldRluuuurrrdDDrddlUUUUruLLLulDDDrddRllUlldRRRuuUlDrdLuuuurDrrdddrddlUUUUruLLLDDlddrRlluuruuulDDlluRRurDrrdddrddlUllluUrULuurDlddddrrrUUUruLLLulDD
+
+
+Level 50 : "NaboKosmos 12", by Aymeric du Peloux (9x9,Box:5,BestMove:119)
+
+  #####
+###   #
+#   # ##
+#  **+ #
+## * $*##
+ # # #  #
+ #      #
+ ###  ###
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 119/29 (YASO 2.139 Optimizer)
+uulldlddRluurDuurrddLLrrrDDrdLLLuUddrruuLuuullddRlulldRdddRRuUrUrdddLd
+lUlluuRRlluurDldddrrrruuulLLuurrDulldlldRdddrrUUR
+
+
+Level 51 : "NaboKosmos 14", by Aymeric du Peloux (9x7,Box:5,BestMove:104)
+
+ #######
+##  #  ##
+# .$*$. #
+#   #   #
+##  *  ##
+ #@ *  #
+ #######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+uuuurDlddrRRdLruuruulDLLDldRRdrrUUruLLrdddllulldRuuuulDDrdrRUruulDLLddrrdrUUdllluurrDrdLuulldlluRRdddlUU
+
+
+Level 52 : "NaboKosmos 17", by Aymeric du Peloux (8x8,Box:5,BestMove:130)
+
+ ######
+ #  @ ##
+## #   #
+# .*.*.#
+#  $ $ #
+#####$ #
+    #  #
+    ####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+dddLruurrddLUrdddlUUruuLulllddRdRRdrUlllulldRRluuurrrdDLLdlUrrruulDrdDrddlUUULuurDrDDlUruLddddrUUlulLdlluRdrRuruulllDurrDrdDrddlUU
+
+
+Level 53 : "NaboKosmos 20", by Aymeric du Peloux (10x8,Box:5,BestMove:148)
+
+ #####
+ #   #
+##*# #####
+# * $ *  #
+#   . @  #
+###  #*###
+  ##   #
+   #####
+
+Author:Author: Aymeric du Peloux
+Best Solution 148/35 (YASO 2.139 Optimizer)
+luRdllluRdllluRdrruuullDDldRuuurrddLruulldDrrdrruLdrrruLLdllddrrUdlluu
+UlluurrDDDrRddllUlURuuullddldRRluuurrddLdlUrddrdrruuurrdLulLLLddrUluRR
+RDLrrruL
+
+
+Level 54 : "NaboKosmos 21", by Aymeric du Peloux (10x9,Box:5,BestMove:118)
+
+  #####
+ ##   #
+##  #.##
+# @ $  #
+# * *  ###
+##*#*#   #
+ #       #
+ ##  #####
+  ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 118/38 (YASO 2.139 Optimizer)
+rdRluuurrddLrrdddllUURurDDulllUlldRRRddrRuuLuuullDDRDrUrdddllllUURRurr
+ddrrdLLLLUUluulDldRddRdrUrruuulLLulDDurrdLurrrdL
+
+
+Level 55 : "NaboKosmos 33", by Aymeric du Peloux (9x8,Box:5,BestMove:110)
+
+#####
+#   ###
+#     #
+## #. ###
+#@***$* #
+#       #
+#  #  ###
+#######
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 110/36 (YASO 2.139 Optimizer)
+drrrUUrDuuLLulldRdDRdrUllldRurrruulDrdLLrddrUUdrruLLLuurDDrdLdlUUruulL
+ulldRdDRllddrURuRRddlUllluRdrrruuulLulDD
+
+
+Level 56 : "CosmoNotes 14", by Aymeric du Peloux (9x7,Box:5,BestMove:105)
+
+   ####
+####  ##
+# $    ##
+#.+***  #
+# $     #
+#####  ##
+    ####
+
+Author:Author: Aymeric du Peloux
+Best Solution 105/43 (YASO 2.139 Optimizer)
+luRRRDLrRdrruLuLulDlddRRULrddrUruLuLulDlllddRRULdrRRULuurDrdLdllluuRRD
+LrrddrUruLuLulDlddRRULrddrUruLuLulD
+
+
+Level 57 : "MyrioCosmos 06", by Aymeric du Peloux (9x8,Box:5,BestMove:124)
+
+   ####
+ ###  ##
+##     ##
+# ****+ #
+#    $  #
+##### # #
+    #   #
+    #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+ullDRDrrddllUUUlullDRdRRuLulldldRRluurrdrdddrruuLruLuLLdLdlluRuRRdLrRDrruLuLulDlddRRUruLdLrrrdddllUUluRuulDrddddrruuLrddlluU
+
+
+Level 58 : "MyrioCosmos 10", by Aymeric du Peloux (9x8,Box:5,BestMove:138)
+
+  ####
+  #@ #
+###  ##
+# $$* #
+# #  *###
+# . *   #
+###  .  #
+  #######
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+rdDrDDLdRuuulDlUrrdddlUdlUrrrrdLLulllluuRRDullddrRRRuuLLdRuuulDDrddllluuRRllddrrrrdrruLLLuUlllddrRdRUllluurrDullddrRdrRurrdLulLLuurDluuurD
+
+
+Level 59 : L194 (6x9,Box:5,BestMove:101)
+
+######
+#    #
+# $  #
+##*  #
+# * ##
+# .$#
+# *@#
+# . #
+#####
+
+Author:
+Best Solution 101/30 (YASO 2.139 Optimizer)
+UUUruulDDDDlluRdrUlldddrrUdlluurDuurUruulDulldRDDuuurrdLrdLdllddrrUUlD
+ruUruulDulldRDDuuurrdLulDDurrdL
+
+
+Level 60 : L195 (6x9,Box:5,BestMove:106)
+
+######
+#    #
+#  $ #
+##.  #
+# * ##
+# * #
+# *$#
+# .@#
+#####
+
+Author:
+Best Solution 106/30 (YASO 2.139 Optimizer)
+UUUdddlluuuRuuurrdLrdLDlldddrruUUlldRDuurUruulDulldRDDuuurrdLrdLdllddr
+rUUlDruUruulDulldRDDuuurrdLulDDurrdL
+
+
+Level 61 : L212 (9x8,Box:5,BestMove:96)
+
+   ######
+####+   #
+#   $   #
+#.##.##.#
+#  $  $ #
+# $ .#$##
+###    #
+  ######
+
+Author:
+Best Solution 96/28 (YASO 2.139 Optimizer)
+DDDLddrUUUUlllddRRdrUUdllldRluuurrRRurrdddLLLddrrUdlluuuururrdddLLrddl
+luULLdlUdrRurrrruuulldRurD
+
+
+Level 62 : L213 (10x6,Box:5,BestMove:93)
+
+ #########
+##       #
+#@$ #$#$ #
+# $   . *#
+#  ###...#
+#### #####
+
+Author:
+Best Solution 93/31 (YASO 2.139 Optimizer)
+RurrrDullldlddrUrrRRdrrULLLuurrDDrdLuuurDDuullllllDlddrUrRRRRuulllllDl
+dRRRRRluullDldRRRuurrdD
+
+
+Level 63 : L214 (10x6,Box:5,BestMove:99)
+
+ #########
+##       #
+# $ # #$ #
+#  $@$. *#
+#  ###...#
+#### #####
+
+Author:
+Best Solution 99/31 (YASO 2.139 Optimizer)
+RuulllDlddrUluRurrrddlLrrRdrrULLLuurrDDrdLuuullllldlddrUrRRRluurrrDDul
+DuulllllDldRRRRRRuullllDldRRR
+
+
+Level 64 : L215 (10x6,Box:5,BestMove:88)
+
+ #########
+##   @   #
+# $$#$#$ #
+#     . *#
+#  ###...#
+#### #####
+
+Author:
+Best Solution 88/31 (YASO 2.139 Optimizer)
+DulllDlddrUrrRRdrrULLLuurrDDrdLuuulllllDlddrUrRRRluurrrDDulDuulllllDld
+RRRRRRuullllDldRRR
+
+
+Level 65 : L216 (10x6,Box:5,BestMove:78)
+
+ #########
+##       #
+# $$# #$ #
+#@$   . *#
+#  ###...#
+#### #####
+
+Author:
+Best Solution 78/31 (YASO 2.139 Optimizer)
+RRRRRdrrULLLuurrDDrdLuuulllllDlddrUrRRRluurrrDDulDuulllllDldRRRRRRuull
+llDldRRR
+
+
+Level 66 : David W. Skinner, Sasquatch VI-2 (10x7,Box:5,BestMove:100)
+
+##########
+#   #    #
+# #$$$$$ #
+#  .#.#  #
+#  ...  ##
+### @ ###
+  #####
+
+Author:
+Best Solution 100/23 (YASO 2.139 Optimizer)
+ullluuurrDDldRdrruLLrrrruruulllDDuurrrddldlLuuLrurrDLLddrrUruLLulDrrdd
+lldlluulldRluuurrDRRDuurrdLulD
+
+
+Level 67 : David W. Skinner, Sasquatch VII-11 (7x8,Box:5,BestMove:143)
+
+######
+# * .#
+#.  $#
+#.#$.#
+#   $##
+##@ $ #
+ #    #
+ ######
+
+Author:
+Best Solution 143/40 (YASO 2.139 Optimizer)
+drrruLLulluurrDrDLuuurDDldddrruLdlUUUrDuuulDllddRRddlUruUruulDllddRddr
+rruLdlluuluuuRdrrdDuulllddrRUruLLulDrrruLdddlddrUUUdddrruLUUULLrddldRd
+rUU
+
+
+Level 68 : David W. Skinner, Sasquatch X-1 (10x8,Box:5,BestMove:106)
+
+######
+##  ##
+## $######
+#  @ #  ##
+# . *#$.##
+### * $. #
+  #      #
+  ########
+
+Author:
+Solution/Pushes (Built-in)
+dddrruRdllluRluuluurDDrDLddrUdrruLLdrrrruLLLrruulDrddlluRdrUdllllURRRlllUUrDldRuullldRRluuurDDrDLddrUdrruL
+
+
+Level 69 : David W. Skinner, Microban 78 (11x8,Box:5,BestMove:135)
+
+ #######
+##     ##
+#  $ $  #
+# $ $ $ #
+## ### ####
+ #@  .....#
+ ##     ###
+  #######
+
+Author:
+Solution/Moves 135/35 (YASO 2.139 Optimizer)
+uUrRuurrdDDuuullddRlllddrrrRRRlluUlluurrDDDullllddrrrRRluulluRurDDDull
+llddrrrdrruLLruuuullllDldRRRRurDDullllddrdrruRdllluRlluuuRRRurDDD
+
+
+Level 70 : David W. Skinner, Microban 129 (11x8,Box:5,BestMove:99)
+
+  #########
+### @ #   #
+# * $ *.. #
+#   $ #   #
+####*#  ###
+ #     ##
+ #   ###
+ #####
+
+Author:
+Solution/Moves 99/24 (YASO 2.139 Optimizer)
+rdRRurDlllulldRRlldlluRRurrddLDuLulldRRuurrdLLrrRRddldlLuUrurrurrddLru
+ulldllulldRRlddddlluRdrUrrurU
+
+
+========================= IV ================================
+
+Level 71 : David W. Skinner, Microban II-70 (8x8,Box:5,BestMove:101)
+
+########
+#  #   #
+#  #.. #
+# $$$$$#
+#  #...#
+#  #   #
+#  @   #
+########
+
+Author:
+Solution/Moves 101/31 (YASO 2.139 Optimizer)
+lluuuurDDlddrrruuULrdrrULLruulDDDrddlllluurURRurDDrddllllUUluRRRdrUlll
+luurDldRRRuurrDDLdlUlldddrrUdrU
+
+
+Level 72 : The Warehouse Volume I - Vertical Mobility 20 (9x9,Box:5,BestMove:110)
+
+ #####
+ #   #
+## #$##
+#   $ ###
+# ..*.. #
+### $   #
+  ##$# ##
+   #@  #
+   #####
+
+Author:Author: Rick Sladkey
+Solution/Moves 110/30 (YASO 2.139 Optimizer)
+rruuulLLdRurrdddllUURurDllluRRllulldRRdrruuLDlluuurrDDLdlUrrrdLLrrdrru
+LLulldRldRddrrUULrddlluUluulldRurruullDD
+
+
+Level 73 : The Warehouse Volume I - Vertical Mobility 32 (8x8,Box:5,BestMove:144)
+
+#####
+#   ##
+#  * ###
+## * @ #
+ # *   #
+ #$.$###
+ # . #
+ #####
+
+Author:Author: Rick Sladkey
+Solution/Pushes (Built-in)
+luLulldRddRddlUUrRuuLDDuuulldRurDrddllUdrrurrdLLuululldRdRRuLdldddrrUULrddlluUruurDDrruLLdllddrrUdlluurDuRuulDDuuulldRurDrddllUdrrurrdLLuululldR
+
+
+Level 74 : Yoshio Murase, Handmade 024 (9x8,Box:5,BestMove:115)
+
+  #####
+  # @ #
+### # ###
+# $$#$$ #
+# .. .  #
+##  #.$##
+ #   . #
+ #######
+
+Author:Author: Yoshio Murase
+Solution/Moves 115/30 (YASO 2.139 Optimizer)
+ldDDuuurrdDDrruLdllluuurrdDuulldddlluRdrrRuuulldDldddrrrUUlLDldRuuulDr
+rrUrrdLLddrUluLLulldRRddRllUruuuurrDDDLrurrdL
+
+
+Level 75 : Yoshio Murase, Handmade 044 (8x8,Box:5,BestMove:116)
+
+   ####
+####  #
+# .$* ##
+#   $  #
+# .# . #
+# *#$@##
+##    #
+ ######
+
+Author:Author: Yoshio Murase
+Solution/Pushes (Built-in)
+uuLLrruulDrddddlllUluuurRRurDDDuulldRullldddrdrrUUUlulldRDuurRdLulDrrdrruLLuurDlddrruLdlULulldRRRdrruLuLLrrddlUdddrU
+
+
+Level 76 : erim221-fourth collection (9x9,Box:5,BestMove:161)
+
+ ########
+ #      #
+ # $.$. #
+ ## #* ##
+ #  #  #
+## ## ##
+# .$ * #
+#     @#
+########
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 161/25 (YASO 2.139 Optimizer)
+lluLdrrruLuuruuLullDurrdLrrddlUruulldRurDulllldRRRdddddlluRdllluRuurUd
+ldddrruLdrrruLuuuuullldRurrddddddlluRdllluRuuruuurrrrdLulDulldddldddrr
+uLdrrruLuurUdldddlluR
+
+
+Level 77 : erim231-fourth collection (10x7,Box:5,BestMove:139)
+
+     ####
+ #####  #
+##   #  ##
+#  $     #
+# $##$$$ #
+##@..... #
+ #########
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 139/40 (YASO 2.139 Optimizer)
+rrrrUUllulldRRRRddrruuLLruulDDrrddlUUddlllllUluRurrdRRDullulldddrrrRur
+ruLLuurDDlddlllluuurrdRDrdLLrruUruulDDrrddLLLuurrDLullulldRRRDrruulDD
+
+
+Level 78 : erim270-fifth collection (9x8,Box:5,BestMove:131)
+
+    #####
+#####   #
+#.....$ #
+# ## # ##
+# $  $ #
+###$ $ #
+  #   @#
+  ######
+
+Author:Author: Erim SEVER from TURKEY
+Best Solution 131/30 (YASO 2.139 Optimizer)
+lluuRluulllddRRRddlUruuulllddrRlluurrrrurrdLLLLLrrdDlddrrruUUdddllluur
+uururrdLLLLrddlddrUUUdddrruuuulLdddRdrUUUddlluuururrdLddLdlUU
+
+
+Level 79 : "MicroCosmos 21", by Aymeric du Peloux (9x9,Box:5,BestMove:185)
+
+  #####
+  #   ###
+###*# $ #
+# $ @ # #
+# # ..  #
+# . #$###
+##$.  #
+ #  ###
+ ####
+
+Author:Author: Aymeric du Peloux
+Best Solution 185/28 (YASO 2.139 Optimizer)
+lddlluuRRdrruuullDDllddrrdrrUUddllulluurrDrrddlldlUrrruullDurrddlLuuuu
+urrdDDrruuLrddllllddrrUdlluuuuurrDrrddlLLrddlluUUllddRluurrdrrrruullDu
+rrddlLddllUlluurrRlllddrrddlUrrruurruullDllDD
+
+
+Level 80 : "MicroCosmos 24", by Aymeric du Peloux (10x9,Box:5,BestMove:165)
+
+     #####
+ #####   #
+ # $ . # #
+ # # $$  #
+## ## # ##
+#  $.$. #
+# ##   ##
+#  .@.##
+#######
+
+Author:Author: Aymeric du Peloux
+Best Solution 165/31 (YASO 2.139 Optimizer)
+urruruuruulldlDururrddlddldlluRddlllluuruuuRRdrDDuuRuurrddLddLdLUddlll
+luurRRRlDrdLuulluuurrdrDDDuuuRuurrddLLuLDrrddLdllulluuurRdrrrddlLLrrru
+ullDurrddldlluRuululldddR
+
+
+Level 81 : "NaboKosmos 08", by Aymeric du Peloux (7x9,Box:5,BestMove:147)
+
+  ####
+###  #
+# .* ##
+# #   #
+#@**  #
+# #   #
+# $* ##
+###  #
+  ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 147/32 (YASO 2.139 Optimizer)
+uurRurDDrddllUdrddlUruruulDuulllddRRUdlluurRdrrdLLuuurDDulllddddRRUUUd
+ddlluuuurRdrrddLruulluurDlllddddrrUUUddrruuLuLrdrddllddrUluuUrrddLruul
+ldDrruL
+
+
+Level 82 : "NaboKosmos 28", by Aymeric du Peloux (9x9,Box:5,BestMove:147)
+
+ ####
+ #  #####
+ #      #
+ # * *  #
+##$# # ##
+# . *#* #
+#       #
+####@ ###
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 147/49 (YASO 2.139 Optimizer)
+uUUURurrdLdDrdLLLuuuRurDllddllUURuulDDrRRuLLrrrrdLDDrdLLdlUUlldRurUUll
+DurrRurrdLdddldlUllluRuurrRurDlllldddrrUUddlluRluuruulDDDurRRuLdlluurD
+rrrrdLD
+
+
+Level 83 : "NaboKosmos 31", by Aymeric du Peloux (8x9,Box:5,BestMove:113)
+
+ #####
+ #   ##
+##* ..##
+#   #  #
+# *    #
+# * # ##
+##  $$#
+ ### @#
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 113/38 (YASO 2.139 Optimizer)
+UUUlluurrDrdLuulldllddRUddrRdrUUULLuurrDrdLddllUUUddlluuRDrddrruuuulul
+lDRDDDulUlddRdRRdrUUUUdLLulDrrrddllUdrruulL
+
+
+Level 84 : "Cosmopoly 14 (NaboKosmos 12 variant)", by Aymeric du Peloux (9x9,Box:5,BestMove:151)
+
+  #####
+###   #
+#   #.##
+#  *$@ #
+## * **##
+ # # #  #
+ #      #
+ ###  ###
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+uulldlddRluurDuurrddLLrrrDDrdLLLuUddrruuLuuullddRlulldRdddRRuUrUrdddLdlUlluuRRlluurDldddrrrruuulLLulDrrrrdddllUURuLLulldRDRRlluurDrdddllUUddrruuululldR
+
+
+Level 85 : "CosmoNotes 07", by Aymeric du Peloux (9x9,Box:5,BestMove:170)
+
+  #####
+  #   ###
+  # #*  #
+ ##+*   #
+ #   # ##
+##$#*#  #
+#    *  #
+#   ##  #
+#########
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+RRlluurrDrDLLrrDDrddlULLLdlluRRRUUllDurURRuullDDrrurrdLdDrddlUUUULLdddRlldlluRuuRUrruullDDrrrruLdllluurrDrdLLrrddrddlUllLdlluRRRuUddlluuRURDuRuullDurrdrrdLLrdDrddlUUUUruL
+
+
+Level 86 : L147 (10x9,Box:5,BestMove:158)
+
+     #####
+ #####   #
+ #@$ . # #
+ #$# $   #
+## ##$# ##
+#   .$. #
+# ##   ##
+#  . .##
+#######
+
+Author:
+Best Solution 158/36 (YASO 2.139 Optimizer)
+DDuuRRdRRuurrddLddldlluRddlllluuRuuurrdrDDuuRuurrddLddLdLUddlllluurRRR
+lDrdLuulluuurrdrDDDuuuRuurrddLLuLDrrddLdllulluuurRdrrrddlLLrrruullDurr
+ddldlluRuululldddR
+
+
+Level 87 : L169 (9x8,Box:5,BestMove:141)
+
+  #####
+  #.  ###
+ ##.#   #
+ # * $  #
+##@* #$##
+#  *   #
+#   ####
+#####
+
+Author:
+Solution/Moves 141/39 (YASO 2.139 Optimizer)
+RUldddrUrrrUULLDurrddlLLdlluRuuRRddLruulldRddlUrrrruuLuullDDDuuurrddLr
+uulldDrrrruLdllluurrDrdddllLUUUddddlluRdrUUUlDrddlluRdrUrrruuLLDurrddl
+L
+
+
+Level 88 : L172 (8x8,Box:5,BestMove:87)
+
+ #####
+ #   #
+ # # ##
+## *$ ##
+#  .$  #
+# $* # #
+##@.  .#
+ #######
+
+Author:
+Best Solution 87/32 (YASO 2.139 Optimizer)
+URuRUdldlluRuRDlddrrrruuLuLrdLLDlluRuuurrDDLDlUrrrdLulldddRRRlUULDlluR
+drruruLuullDDDldR
+
+
+Level 89 : L173 (8x8,Box:5,BestMove:87)
+
+ #####
+ #   #
+ # # ##
+## *$ ##
+# $.$  #
+#@$. # #
+## .  .#
+ #######
+
+Author:
+Best Solution 87/32 (YASO 2.139 Optimizer)
+RRuRUdldlluRuRDlddrrrruuLuLrdLLDlluRuuurrDDLDlUrrrdLulldddRRRlUULDlluR
+drruruLuullDDDldR
+
+
+Level 90 : L182 (8x8,Box:5,BestMove:131)
+
+   ####
+####  #
+#@* . ##
+# $$ $ #
+# .# . #
+# *#  ##
+##    #
+ ######
+
+Author:
+Solution/Moves 131/40 (YASO 2.139 Optimizer)
+RRllddrURuRDDrruLdddlllUluurrururDDDlUlllddrdrrUUruLLuRurDlddddlluluuR
+DluuRRRdLulDrrdrruLLuurDlddrruLdlULulldRRRdrruLuLLrrddlUdddrU
+
+
+Level 91 : L183 (8x8,Box:5,BestMove:127)
+
+   ####
+####  #
+# * . ##
+#  $$  #
+# .# . #
+# .#$$##
+##   @#
+ ######
+
+Author:
+Solution/Moves 127/40 (YASO 2.139 Optimizer)
+UUlULrdrruLLruulDrddddllluuluuRDuRRurDDDlULuRurDlllldddrdrrUUUlulldRDu
+urRdLulDrrdrruLLuurDlddrruLdlULulldRRRdrruLuLLrrddlUdddrU
+
+
+Level 92 : L184 (8x8,Box:5,BestMove:129)
+
+   ####
+####  #
+#@* . ##
+# $$   #
+# .#$. #
+# *#  ##
+##    #
+ ######
+
+Author:
+Solution/Moves 129/40 (YASO 2.139 Optimizer)
+RRllddrURRDrruLLLrruulDrddddlllUluuuRRRurDDDuulldRullldddrdrrUUUlulldR
+DuurRdLulDrrdrruLLuurDlddrruLdlULulldRRRdrruLuLLrrddlUdddrU
+
+
+Level 93 : L229 (9x8,Box:5,BestMove:110)
+
+ ######
+##  . ##
+# . #$ ##
+# $ # $ #
+# @## # #
+# $$  ..#
+#  .#   #
+#########
+
+Author:
+Best Solution 110/27 (YASO 2.139 Optimizer)
+UldddrUUdRRRdrruLLLLdlluuuuRurrrDDDuuullldlddrDrrRdrruuuLrdddlluRlllll
+uuururrrdDDuuullldDrUluRddlldddRuUUddrrR
+
+
+Level 94 : David W. Skinner, Sasquatch 9 (9x9,Box:5,BestMove:150)
+
+#########
+#. .    #
+#.$. .  #
+## ###@ #
+ #  $  ##
+ # $$ ##
+ #  $ #
+ #  ###
+ ####
+
+Author:
+Solution/Moves 150/46 (YASO 2.139 Optimizer)
+uullllldRRurrrdddlLLrrddLLUlUUUluRRRRdrddllLdlUUdrrrruululldRRulllldRR
+RlldddrddlUUUUdrrrruruuLLLdlLuRRlldddrrrdLLdlUUUUddrrrruruulDLLulLdddr
+rrrUruLuLL
+
+
+Level 95 : David W. Skinner, Microban 133 (10x8,Box:5,BestMove:155)
+
+ #######
+ #  . .###
+ # . . . #
+### #### #
+#  @$  $ #
+#  $$  $ #
+####   ###
+   #####
+
+Author:
+Solution/Moves 155/41 (YASO 2.139 Optimizer)
+uurrrrrdddLLulLrrddllULUUddrdrrurruuullllulldRRldddrdrruulLdlUUdrrrdrr
+uuullulldRRulllldRRldddrdrUruLLdlUUUluRRRlldddlldRRRdrUruLLdlUUUluRddd
+drrrrruLLLLdlUU
+
+
+Level 96 : David W. Skinner, Microban II-82 (11x8,Box:5,BestMove:152)
+
+ ##########
+ #        #
+ #.####   #
+##.$ @ $$ #
+# .*.$ #  #
+# ### ## ##
+#        #
+##########
+
+Author:
+Solution/Moves (Built-in)
+ldLrurrdLddrrruuUdddllluuulLdRurDurRuurrdddlddllllllluuRRRurrruullllldDuurrrrrrrddLLLLLLrrrrrdddllllllluuRUrrdLurrrdLLurrruurDrdLdddlllUdrrruuuLLLrdLuLL
+
+
+Level 97 : The Warehouse Volume I - Vertical Mobility 36 (8x9,Box:5,BestMove:183)
+
+ ####
+ #  ####
+## *   #
+#  *#  #
+#@# $.##
+# *   #
+# #*  #
+#   ###
+#####
+
+Author:Author: Rick Sladkey
+Solution/Pushes (Built-in)
+uruRldlddRRuUllddddrrUrruuLDLddlluuuurrDDuuluurDldlddRRurruuLLulDrrrddllUddllddrrUUUrrddLruulldRlllddrrUruLurruulLDDrddldlluuuuRlddddrruruuruullulDrrrddllUdrddldlluuuuRlddddrrurrUlulD
+
+
+Level 98 : The Warehouse Volume I - Vertical Mobility 48 (9x9,Box:5,BestMove:155)
+
+   ####
+   #  ###
+ ### .  #
+ #  $.$ #
+##@##*###
+#   $.$ #
+#    .  #
+##   ####
+ #####
+
+Author:Author: Rick Sladkey
+Solution/Pushes (Built-in)
+ddrrruLLdrrrruLLUULuurDDDDrdLLdlluRuRRdLdlluluRuuRRllddddrruuLrrdrruLLuUluurDDDDLdRuuullldDRluurrrurrdLLdddldllURuRlddrUrUUUdddlluRdrUrrdLullldlluRRRlluurR
+
+
+Level 99 : "NaboKosmos 10", by Aymeric du Peloux (10x9,Box:5,BestMove:211)
+
+ ####
+ #  ######
+ #       #
+## # #.$ #
+#  * ## ##
+# ** # @#
+###   * #
+  ####  #
+     ####
+
+Author:Author: Aymeric du Peloux
+Best Solution 211/49 (YASO 2.139 Optimizer)
+uUlullddddrRlluuuullddRluurrrrdrddldlluUUdlluurRddddlUruuullddRddrrrur
+uuluLLdDlddrrrdrUUdlllluurDullldRRuruuLulDDurrrrdrruLLLLddlddRRRurUdld
+llluurDllluRdrdRuuuuLulDDDldRuuurrrrrrdLddlddrUUUUruLLLLLulDDDuurrdddd
+R
+
+
+Level 100 : "NaboKosmos 26", by Aymeric du Peloux (9x9,Box:5,BestMove:245)
+
+    #####
+#####   #
+#       #
+#  ..# ##
+##$# *  #
+ # +#*  #
+ #$ $  ##
+ #  ####
+ ####
+
+Author:Author: Aymeric du Peloux
+Best Solution 245/75 (YASO 2.139 Optimizer)
+lUUluRRldddrddlUUUUruRRurrdLddddlLLuluurrdRDuluuRurrdLdDlluuRurDllldll
+uRRldddrddlUUUUrrdrrrdLdLLrruulluluRRurrdLDDlluuRurDllldlddddrUluuuluR
+RdrdrDurrdLdLLLdlUUUddrrrruulDulululldRRuRRurrdLDDrdLdLUruuuLLLdlluRRR
+RurDDDrdLdlLLdlUUUddrrrruuuullllldR
+
+
+Level 101 : "NaboKosmos 32", by Aymeric du Peloux (9x9,Box:5,BestMove:264)
+
+  #######
+ ##  #  #
+##   $$ #
+#  #.#  #
+#  .+. ##
+#  #.#$##
+## $  $ #
+ ####   #
+    #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+
+Solution/Moves 262/65 (YASO 2.139 Optimizer)
+rruruulDLLddrrUruLddlllluuRurDDullddrRddrdrruLUULLddRdrUlluuuullddddRR
+uuLrrrUruulDLLddddlluluuruRurDlldDrrrrUruLLLDurrddlLddRdrruLUUUruLddll
+ddRdrUUUddllllUluuruRurDDDrrUruulDLLddrrddlllluluuruRurDlldlddrURRlldd
+rrrruuUruulDllDullDldRddrrrruuUruLLrddddlllluuuururD
+
+
+Level 102 : "NaboKosmos 35", by Aymeric du Peloux (9x8,Box:5,BestMove:178)
+
+   #####
+ ###   #
+##   #@##
+# . *$. #
+# # $   #
+# #$#$###
+#  .. #
+#######
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 178/43 (YASO 2.139 Optimizer)
+ulldlddRRlluurDllldddrrUUUruurrddLdLUrrrdLLulllldddrrrrUUddlllluuurrDD
+uurRdLrrruLuullDDlluRdrRdddlLuUddrruuLrrruLuullDDRdrUllulldRRllldddRRu
+UddlluuururrdRdLuLDDurrrruLLdlluururrD
+
+
+Level 103 : "NaboKosmos 37", by Aymeric du Peloux (10x8,Box:5,BestMove:201)
+
+ ####
+ #  ####
+ #   * ##
+## #  $.##
+#  #$.#  #
+#  $  $@ #
+#  #..#  #
+##########
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in)
+uuLuLLdDrddlUrRluUluLulDDDlddrURRRuulDuulldDlddrUrRuuulldDldRuuurrdrruLLddddrUUluuLulDDDlddrURRdrUluuurrdrdrddlULLLuuurrdLrrDrdLLLUlDrrruululllldDlddrURRurDrruululDullldDldRRRRRlluUddlluuurRdrrrdrddlUU
+
+
+Level 104 : "Cosmopoly 11 (NaboKosmos 32 variant)", by Evgeny Grigoriev & Aymeric du Peloux (9x9,Box:5,BestMove:302)
+
+#####
+#   ####
+#  $.$ ##
+##$#@#  #
+ # ...  #
+##$#.# ##
+#   $   #
+#   #   #
+#########
+
+Author:Author: Evgeny Grigoriev & Aymeric du Peloux
+Solution/Moves 302/85 (YASO 2.139 Optimizer)
+drrddlLLdlluRRRuullDurruuLulldRDDrruuLulDrrddrruuLLddddRdrUUdllldlluRR
+RuullDurruurrdrdLLLddRdrUUUlluurrDrdLLrddllldlluRRRuUrruullLulldRDDDuR
+RddRdrruLuuuullLulDDDrrddRdrUllldlluRRRuullDurrddRdrruLUULLddRdrUllldl
+luRuuuurrDDuurrDrdLLruullllddddRRRdrruLUdLLLdlluRuuuurrrrdrdLddllLdlUU
+UUdddrrrruuuulllulldRR
+
+
+Level 105 : "Cosmopoly 20 (MicroCosmos 21 variant)", by Aymeric du Peloux (9x9,Box:5,BestMove:201)
+
+  #####
+  #   ###
+### # $ #
+# $* .# #
+# # +   #
+#  *#.###
+## $  #
+ #  ###
+ ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 201/44 (YASO 2.139 Optimizer)
+lUrrdddlLUlluuRRDrrddlldlUrrruullDurruuullDDDrrrruuLrddlllluuurrDDurrd
+dlLddlLUUUllddRluurrdRRuurrddLLddllUlluurrRlllddrrUddrruurruullDDulLdd
+lluuRRddddlUruuullddRluurrdDuRRuurrddLLuuullDDRlllddrrUdlddrU
+
+======================================================================================
+
+Level 106 : "CosmoNotes 12", by Aymeric du Peloux (10x9,Box:5,BestMove:238)
+
+  ########
+ ##  #   #
+##       #
+#  # .# ##
+# $* **$#
+## ##.# #
+ # #@   #
+ #    ###
+ ######
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 238/55 (YASO 2.139 Optimizer)
+ruUUddddllluuURRuullDldRdddrrruuUluuRRurrdLLLLddrUdddrruULrddllldlluuu
+uuRurDRdDDuuulllddRRlldddrruRuUrrddLruullllluurrDulldddddrrrUrruullLLr
+uulldDuurrrRurrdLLLLddrrrUdllllluuRurDDullddrRRluurrurrdLLLLddlluuRurD
+DurrrddddllldlluUUrRuullDldR
+
+
+Level 107 : L151 (9x9,Box:5,BestMove:173)
+
+  #####
+  #   ###
+###*# $ #
+#  $  # #
+# # ..$@#
+# . #$###
+## .  #
+ #  ###
+ ####
+
+Author:
+Solution/Moves 173/35 (YASO 2.139 Optimizer)
+LLulLrruullDDDDlddrUrrUUUlldDuurrdddlLuuuuurrDDDrruuLrddllullddlluuRRu
+urrDrrddllLrrruullDurrddlLuuullddllddrrUUdddrrUULrrruullDurrddlLddllul
+luurrRlllddrrddlUrrruurruullDllDD
+
+
+Level 108 : L197 (9x8,Box:5,BestMove:244)
+
+#####
+#   #####
+#$# #   #
+#   $@$ #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+
+Author:
+Best Solution 244/58 (YASO 2.139 Optimizer)
+LLuullDDDrddrrUlluluuurrddrrurrdLddLLdlluuluuurrddrRurDllluullddRdddrr
+uLdllUUrDldRuuuRRRurrdLLLLuulldDDrdrrrrUdlllluluuurrddrDururrdLddlLuuR
+urDllluullddRdddlUUruRRddLruulldlddrUrrdLruuuRurrdLLLLuulldDDDrrrrrUdl
+luulLruulldDDurrrrurrdLLLLLruulldD
+
+
+Level 109 : L198 (9x8,Box:5,BestMove:226)
+
+#####
+#   #####
+# #$#   #
+#       #
+#.*# # ##
+#*  $$ #
+#.. @###
+######
+
+Author:
+Best Solution 226/58 (YASO 2.139 Optimizer)
+UllUluRRRRurrdLddLLdlluuurrRurDllllluurrDulldddrddrruLdllUUrDldRuuuRRR
+urrdLLLLuulldDDrdrrrrUdlllluluuurrddrDururrdLddlLuuRurDllluullddRdddlU
+UruRRddLruulldlddrUrruuRurrdLLLLuulldDDDrrrrrUdlldLruuulLruulldDDurrrr
+urrdLLLLLruulldD
+
+
+Level 110 : L199 (9x8,Box:5,BestMove:232)
+
+#####
+#@  #####
+#$#$#   #
+# $     #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+
+Author:
+Best Solution 232/58 (YASO 2.139 Optimizer)
+DDRdddrrUlluuRRRurrdLddLLdlluuurrRurDllllluurrDullddrdddrruLdlluUrDldR
+uuuRRRurrdLLLLuulldDDrdrrrrUdlllluluuurrddrDururrdLddlLuuRurDllluulldd
+RdddlUUruRRddLruulldlddrUrrdLruuuRurrdLLLLuulldDDDrrrrrUdlluulLruulldD
+DurrrrurrdLLLLLruulldD
+
+
+Level 111 : L200 (9x8,Box:5,BestMove:243)
+
+#####
+#   #####
+#$# #   #
+#  $@$  #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+
+Author:
+Best Solution 243/58 (YASO 2.139 Optimizer)
+LuullDDDrddrrUlluluuurrddrRurrdLddLLdlluuluuurrddrRurDllluullddRdddrru
+LdllUUrDldRuuuRRRurrdLLLLuulldDDrdrrrrUdlllluluuurrddrDururrdLddlLuuRu
+rDllluullddRdddlUUruRRddLruulldlddrUrrdLruuuRurrdLLLLuulldDDDrrrrrUdll
+uulLruulldDDurrrrurrdLLLLLruulldD
+
+
+Level 112 : L201 (9x8,Box:5,BestMove:238)
+
+#####
+#@  #####
+#$# #   #
+# $ $   #
+#..# # ##
+#.  $$ #
+#..  ###
+######
+
+Author:
+Best Solution 238/58 (YASO 2.139 Optimizer)
+DDDrddrrUlluluuurrddRRurrdLddLLdlluuluuurrddrRurDllluullddRdddrruLdllU
+UrDldRuuuRRRurrdLLLLuulldDDrdrrrrUdlllluluuurrddrDururrdLddlLuuRurDlll
+uullddRdddlUUruRRddLruulldlddrUrrdLruuuRurrdLLLLuulldDDDrrrrrUdlluulLr
+uulldDDurrrrurrdLLLLLruulldD
+
+
+Level 113 : David W. Skinner, Sasquatch VIII-12 (8x9,Box:5,BestMove:193)
+
+   #####
+#### @ #
+# $  # #
+#. .$# #
+#.# .# #
+#  .$# #
+##$ $  #
+ #  ####
+ ####
+
+Author:
+Solution/Moves 193/35 (YASO 2.139 Optimizer)
+ldldddddlUruuullddRdrUlluurrururrdddddlLrruuuuulldldlluRldddrrUrULLulD
+rrddlddrUrrruuuuullDLddrDuluurDDullluRdrdDlddrUUUruLruurrdddddlLUluurD
+DllddrUUruuuurrdddddlLuuulLuRdrddlUdlddrUrrruuuuullDD
+
+
+Level 114 : David W. Skinner, Microban 106 (10x9,Box:5,BestMove:205)
+
+ ########
+ #      #
+ #@   $ #
+## ###$ #
+# .....###
+# $ $ $  #
+###### # #
+     #   #
+     #####
+
+Author:
+Solution/Moves (Built-in)
+urrrrrdLLLulldddrrrrUruLulldLurrrdLLrrddDrrddllUUUllldRRulllldRRRurrUruLullllDDuurrdLurrrdLLrrddDrrddllUUUllldlluRRdrRurUruLullllDDuurrrrdddldlluRdllluRRluuurrdLulDDuurrrrdddDrrddllUUllllluRuuurrrrdLLLulDD

@@ -1,0 +1,942 @@
+:::;::::::::::::: Advanture :::::::::::::::::::::
+
+================ II ====================
+
+Level 1 : "PicoKosmos 11", by Aymeric du Peloux (10x9,Box:8,BestMove:180)
+
+    ####
+    #  ###
+  ###    #
+### ** * #
+#  . *$@##
+#  ***  #
+##    ###
+ ###  #
+   ####
+
+Author:Author: Aymeric du Peloux
+Solution/Moves 180/67 (YASO 2.139 Optimizer)
+UlDLLLDlluRRRRDLLrruUruulDDrrruLdlluurDrdddLLUlldRRuURurrdLdLLrruulDld
+dlddrUUllulldRdRluurDuuRRRuulDrdLurrrdLddLLUURlddLLuuRRddddlUruuulldll
+dRdRRdrUUrruULLDLrRuuulDDrrruLLulDrdddrU
+
+
+Level 2 : "PicoKosmos 16", by Aymeric du Peloux (9x8,Box:8,BestMove:201)
+
+ ######
+ #    #
+## * .##
+# *$*  ##
+#@ * *  #
+##* *   #
+ #   ####
+ #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Snapshot
+rUdRdRRULULDrrruLuullDRDrddlUlURdllluRdrruuullDDRluurrdLddrUllldRurrdrruLddldllUURlddrruLuuuurrDDLruulldRdrrdrdLLLUlURdllluRdrruuullDDldRuuurrdLrddddllUURlddrruLuUrDllluRdrruuullDDldRuuurrddLrdRdrruLuL
+
+
+Level 3 : "PicoKosmos 18", by Aymeric du Peloux (9x8,Box:8,BestMove:193)
+
+ ########
+ #   #  #
+##.     #
+# ***** #
+#   * * #
+## #$  ##
+ #  @###
+ #####
+
+Author:Author: Aymeric du Peloux
+Solution/Pushes (Built-in) Best Solution 193/57 (YASO 2.139 Optimizer)
+lluurUdlluRuurrdLrrDDLLURurrrddLUdLUlldRullldRddrrUULrRurrdLLLddlluURu
+RRdrdLuulldlluRdrRuuullDDuurrdLrddlUlldRddrrUULulDrrdrruLuLuullDDRluur
+rdLddRdrruruLruulDLLDllldRurruulDrrrrddldllURlddllUUR
+
+
+Level 4 : David Holland, "Abstract" (8x9,Box:8,BestMove:181)
+
+ ######
+ #    #
+##. * ##
+# . $  #
+# #**# #
+#  *+* #
+## $$ ##
+ #    #
+ ######
+
+Author:Author: David Holland
+Solution/Moves 181/42 (YASO 2.139 Optimizer)
+LUUluurrrddrddLLrddlULrruruuluulllddrdDRluuluurrrddLDDuuruulDDuullddRl
+uurrdLrrdrddLddllUUUURlddddrruuLrddlluUrUUlllddRRdRUllluurrDDrddllURur
+rruuLuullDDllddRddrrrUdlUlluluurruurrddLL
+
+
+Level 5 : David Holland, "Shuffle 2" (8x8,Box:8,BestMove:74)
+
+########
+#  #   #
+#  * . #
+# .$*$ #
+## * . #
+# *$*  #
+# @ #  #
+########
+
+Author:Author: David Holland
+Solution/Moves (Built-in) Snapshot
+UURRllddrURlluUluurDDDuuRRDDLUdddlluRdrUUdlUUluurDDDrruLruurrddLrdLLrrddlU
+
+
+Level 6 : David Holland, "Pinwheel3" (10x9,Box:8,BestMove:180)
+
+ ####
+ #  ######
+ #   $@$ #
+ # **##. #
+##$.$  . #
+#  .# .*##
+#    $  #
+######  #
+     ####
+
+Author:Author: David Holland
+Solution/Moves 180/64 (YASO 2.139 Optimizer)
+LLLDDRRdrdrUUruuLDDDlluRllluurDldRRdrdLLLUlldRRuUruulDlDDrUluRuulDDrdr
+rdrrULLrrruulDrdLdlddrUUUruulLLLLddddRRurrddlUlllulldRRuuulDruuulDDrdd
+dlluRdrUUUluurDldDrddlluRdrRRRdrUlluuLrR
+
+
+Level 7 : David Holland, "Notchwheel1" (10x9,Box:8,BestMove:141)
+
+     ####
+ #####  #
+## $  $ #
+#@$.#.* ##
+# $.$ .  #
+##$.*#.  #
+ #      ##
+ #  ######
+ ####
+
+Author:Author: David Holland
+Solution/Moves (Built-in) Snapshot
+RuRDDRRRdrruLuLDruuulDrddlllluuRRRDrdddllllUUrrRurDluulllldldRRddrrrUUrrdLdlllluuluurrrrurDDDllLLddrrrrUruLuullllDDulldRuurrrrrddddlllllUUluR
+
+
+Level 8 : David Holland, "Osmosis1" (10x9,Box:8,BestMove:161)
+
+##########
+#   #    #
+# #$. .# #
+#@#. * # #
+# # * .# #
+# #*$*$# #
+# $      #
+####  ####
+   ####
+
+Author:Author: David Holland
+Solution/Moves (Built-in) Snapshot
+dddRRRRUdllURUUlDrddrRUUULrdddlluuRuuurrrdddddLLLUUUrDllluRdrdddlUlURuulDrrruLdlddrrrruuuuulllDDuurrrdddddllllllluuuuurrDRlulldddddrrruuUrrdLDlddrUrUdrruuuuulllD
+
+
+Level 9 : David Holland, "Catkins5" (10x9,Box:8,BestMove:208)
+
+ #####
+##   #####
+#  # $@$ #
+# #..#*  #
+#  .   . #
+## $.#.* #
+ # $ $$# #
+ #####   #
+     #####
+
+Author:Author: David Holland
+Solution/Moves 208/53 (YASO 2.139 Optimizer)
+DrdLLLuuulldlddrRRRRurrddddllUUddrruuLULLLuuulldlddrRRRRuuLrddDrrddllU
+UUllddRluullddRRuurrdrruLruuLDDLLLdLUlluururrDrRDullDDrRurruLLLrrrdddd
+dllUUUlllddrRlluulluururrDrrrrdddddllUllllUdrrrrdrruuuuullllulldlddR
+
+
+Level 10 : David Holland, "Splittee1" (9x9,Box:8,BestMove:145)
+
+ #######
+##  #  ##
+#     $ #
+# ** **@#
+# * # * #
+##  .  ##
+ #  .$##
+ ##   #
+  #####
+
+Author:Author: David Holland
+Solution/Moves 145/48 (YASO 2.139 Optimizer)
+dLruuLDLDurrdLdLLLrrruulDruuulDDullDRRulllldRRDDrddlUUUUlldRurDDrddlUl
+UUrDldRuuuRurrrddlUddLLLulluururDrdRDrdLurruuLDuulDldRullllddrrddlUrdd
+rrUUU
+
+
+Level 11 : David Holland, "Shuffle1" (9x8,Box:8,BestMove:122)
+
+    #####
+  ###   #
+###..$. #
+# $ $.$##
+# #$. * #
+#  . *$ #
+##   # @#
+ ########
+
+Author:Author: David Holland
+Solution/Moves 122/47 (YASO 2.139 Optimizer)
+uuLLrrddlUruLdLLdlluRUURuRurrdLLrDDrddlUUUddlLdlluRRRlluurRDLrrrddlUru
+LLrdLLdlluRRRuuuurrdLulDDDrUdrddlULLdlluRRllluuRRRlD
+
+
+==================================================================
+
+Level 12 : David Holland, "Gyroscope2" (9x9,Box:8,BestMove:148)
+
+  #####
+###   ###
+# $ #$  #
+# ....* #
+#  *. $ #
+## # # ##
+ # $$* #
+ ## @ ##
+  #####
+
+Author:Author: David Holland
+Solution/Moves (Built-in)
+UUULuuurrDrrddLddLdlUrruuruulDDuululldddrRUdlluRRlluurrDrrddLULuullddlluRdrdrRurrdLulLLrruullDllddRddRdrrurUUruuLrddlddldlluRUUddlluuluurrurrDrrddlL
+
+
+Level 13 : David Holland, "Moebius2" (9x8,Box:8,BestMove:138)
+
+ ####
+##  ####
+# $  $ #
+# $... ##
+#@*$$$* #
+## ...  #
+ ##   ###
+  #####
+
+Author:Author: David Holland
+Solution/Moves (Built-in)
+uRRDuuulDlddRdRUddrruULrdrruLuuLLrrdddldlluRuURurDllddlluluurDRDrddlUlUluururDRDDurrDLululllddrURuulDlddrdrdrrUUrrdLuuuLLLdDRRlllluuRurDlD
+
+
+Level 14 : David Holland, "Space Invader1" (9x8,Box:8,BestMove:120)
+
+   #####
+ ###   #
+## .$.$#
+#  .** ##
+# * . * #
+##   $$ #
+ #  ## @#
+ ########
+
+Author:Author: David Holland
+Solution/Moves (Built-in)
+
+Solution/Moves 120/45 (YASO 2.139 Optimizer)
+uuLLLdllUluRurRurrDLLDLDlddrUrUUlDrrrrddlUruLULuurDDDrddlULUUdlluRdrdr
+ruLuuullDDRlldlddrUluluRRRuurrdDLrDrddlUlUdLLdlUrU
+
+
+Level 15 : David Holland, "Heart1" (11x9,Box:8,BestMove:247)
+
+####   ####
+#  #####  #
+#    $  $ #
+# ..$# .. #
+## . #$.$##
+ # .$# . #
+ ##  #$$##
+  #  # @#
+  #######
+
+Author:Author: David Holland
+Solution/Moves (Built-in)
+UUUUluLLLdlluurDDrdrDluuurrrdrrruulDLLLLLrrrrdddlUUrurrdLulDuLLLDllluurDRRRRRlllldddrUUlulldRurDuRRRdrrruulDLLLLLrrrdddrddlUUUUrDDuuurrdLulDuLLLdllluurDRRRRRllldddlddrUUUUlDDuuulldRurRRRdrrruulDrdLuLLdddrrUdllddrUluuuuLLLDlluurDldRurrdddllUdrrddlU
+
+
+Level 16 : David Holland, "Face1" (11x8,Box:8,BestMove:218)
+
+###########
+#    .  $@#
+#  *# #*  #
+##  *.. ###
+ #$ #.#$ #
+ #  $.$  #
+ #  ###  #
+ #### ####
+
+Author:Author: David Holland
+Solution/Moves 218/70 (YASO 2.139 Optimizer)
+LLLLLLDldDrUluluRRRRddLLdlUrdddlUUrurruullDulldRurrrddddLLulURdddlUUdr
+rruurrDrddlULLuurrDrdLuulluullDDRRuulllldRurrrddddLLUlURdddlUUdrrruuuu
+llDDRluulldRurrrdDllDlUrrruullDulldRdRRlldddrUUluRluurrrRRDrruLLLrdDDr
+ddlULrUU
+
+
+Level 17 : L238 (7x7,Box:8,BestMove:35)
+
+#######
+#. . .#
+# $ $ #
+#.$$ *#
+# $ $ #
+#. .$+#
+#######
+
+Author:
+Best Solution 35/20 (YASO 2.139 Optimizer)
+LUlUULulDDDRdRRurUULLLrdDlluUrrdLrR
+
+
+Level 18 : L239 (7x7,Box:8,BestMove:34)
+
+#######
+#. . .#
+# $$$ #
+#*@$ .#
+# $$$ #
+#. . .#
+#######
+
+Author:
+Best Solution 34/20 (YASO 2.139 Optimizer)
+RDuRUruLLLDlDDRdRRUUUdlLuurRddlUdD
+
+
+Level 19 : L240 (9x8,Box:8,BestMove:90)
+
+ ######
+##    ###
+# $$*   #
+#  . *  #
+##.$* *##
+ # * .@#
+ ##   ##
+  #####
+
+Author:
+Solution/Moves 90/30 (YASO 2.139 Optimizer)
+UULLDruuulDullDRRurDDrddlUlLUdrrULuurDDuullldRRddlUdrRddlUruuluurDDDur
+ruLdlluurDullldldRuR
+
+
+Level 20 : L241 (9x8,Box:8,BestMove:82)
+
+ ######
+##    ###
+# $ .   #
+#  .$*  #
+##.$* *##
+ # * *@#
+ ##   ##
+  #####
+
+Author:
+Best Solution 82/28 (YASO 2.139 Optimizer)
+UUruLLulldRldlddRURRllluluRurrdDLdddrrULrrUULLDRddlUruuluurDDDurruLdll
+uurDullldRlD
+
+
+Level 21 : L247 (9x8,Box:8,BestMove:69)
+
+######
+#    #
+#  $$####
+# $...*@#
+# ..**$ #
+#### $  #
+   #    #
+   ######
+
+Author:
+Solution/Moves 69/22 (YASO 2.139 Optimizer)
+LDuLLDRlllluuurrrDDrrrdddllUULuRluulldDRRuulDrddrddlUUddrrruuLrdLLdlU
+
+
+Level 22 : Level 248 (9x8,Box:8,BestMove:60)
+
+######
+# @  #
+# $$ ####
+#  **.. #
+# ..**$ #
+####  $ #
+   #    #
+   ######
+
+Author:
+Solution/Moves 60/20 (YASO 2.139 Optimizer)
+DRllddrrUdlluurDrRRDLddrUUlulluurDurDDDrddlUUddrrruuLrdLLdlU
+
+
+Level 23 : L249 (9x8,Box:8,BestMove:48)
+
+######
+#    #
+#   $####
+# $**.. #
+#@*..*$ #
+####  $ #
+   #    #
+   ######
+
+Author:
+Best Solution 48/14 (YASO 2.139 Optimizer)
+uurrDRRlddrUlululldRuurrDDDrddlUUddrrruuLrdLLdlU
+
+
+Level 24 : L250 (9x8,Box:8,BestMove:62)
+
+######
+# @  #
+# $$ ####
+#  **.. #
+# .*.*  #
+####$ $ #
+   #    #
+   ######
+
+Author:
+Solution/Moves 62/20 (YASO 2.139 Optimizer)
+DurrdLulldddrRURRDLuuulDulldRDRRuulDrddrrrddlllUUddrUdrruLLdlU
+
+================ III ====================
+
+Level 25 : L251 (9x8,Box:8,BestMove:66)
+
+######
+#    #
+#  $$####
+# $..*+ #
+# ..**  #
+#### $$ #
+   #    #
+   ######
+
+Author:
+Best Solution 66/20 (YASO 2.139 Optimizer)
+LLDRlllluuurrrDDrrrdddllUULuRluulldDRRuulDrddrddlUUddrrruuLrdLLdlU
+
+
+Level 26 : L252 (9x8,Box:8,BestMove:61) 
+
+######
+#    #
+#    ####
+# $*.*+ #
+# ..**$ #
+####$ $ #
+   #    #
+   ######
+
+Author:
+Solution/Moves 61/22 (YASO 2.139 Optimizer)
+LDLLUdrruLuLDrrrrdddllUUddrruLUddlUdlUUUluurDDuulllddRluRRurD
+
+
+Level 27 : Level 255 (9x7,Box:8,BestMove:46)
+
+########
+#  #.. ##
+# $*  * #
+#@$ $$  #
+# . $.$ #
+## ..#  #
+ ########
+
+Author:
+Best Solution 46/21 (YASO 2.139 Optimizer)
+RluurDDuRDDuuRurrDLDLDlUrUrrrdLrddlUUdLUUdlldR
+
+
+Level 28 : David W. Skinner, Sasquatch V-13 (9x9,Box:8,BestMove:112)
+
+    #####
+ ####   #
+ #  $$# #
+## *..$ #
+#@ .#.  #
+# $..* ##
+# #$$  #
+#   ####
+#####
+
+Author:
+Best Solution 112/20 (YASO 2.139 Optimizer)
+ruRdlldddrrUUrRdLulUluurDldldRRllddrrUrruuuLrdrruLLdddrUluurruullDDDur
+rdLddllldlluuuruurRlldddlddrrurrruuuruullD
+
+
+Level 29 : David W. Skinner, Sasquatch VI-3 (10x8,Box:8,BestMove:84)
+
+ ########
+##      ##
+#  *..*  #
+# #$  $#@#
+#  ****  #
+##     ###
+ ###  ##
+   ####
+
+Author:
+Solution/Moves 84/16 (YASO 2.139 Optimizer)
+ulullllldRurrddDRdLLruulDLUrrdddlUruuuurrdLulllldlddRdRRdrUruUddllllul
+uururrrrrdrddL
+
+
+Level 30 : David W. Skinner, Sasquatch VI-8 (11x9,Box:8,BestMove:152)
+
+###########
+#    @    #
+# ###$### #
+# # .$. # #
+# #$ . $# #
+#  $. .$  #
+###$. .$###
+  #  .  #
+  #######
+
+Author:
+Solution/Moves 152/26 (YASO 2.139 Optimizer)
+llllddddrRlluuuurrrrrrrrddddlLLuurDllluRdDDlUllluuuurrrrDDllDurruullll
+ddddrRRddlUruURDrdLuuuuurrrrddddlLuLLddrdrUlluurDluuuurrrrddddlLulluuu
+llllddddrRuR
+
+
+Level 31 : David W. Skinner, Sasquatch VII-6 (9x9,Box:8,BestMove:146)
+
+#########
+#  #   #
+#.$*$#.##
+#  .$ $ #
+## ...  #
+# $  $ ##
+# $###.#
+#   @  ##
+#########
+
+Author:
+Solution/Moves 146/34 (YASO 2.139 Optimizer)
+llluuRurrdRuuLdlldRRurrruLuullDDRdLdlluuRRllluurDldRddrruuuLLrrddrrULd
+ldlllddrrrrruUddllllluuruRUddrRuLrurrdLLdllllddrrrrruUddllllUluRRRRuuL
+rrrdLD
+
+
+Level 32 : David W. Skinner, Sasquatch VIII-2 (11x9,Box:8,BestMove:84)
+
+    #####
+#####   ##
+#   # #$ #
+# #  *.  ##
+# $*.@.*$ #
+##  .*  # #
+ # $# #   #
+ ##   #####
+  #####
+
+Author:
+Solution/Moves 84/20 (YASO 2.139 Optimizer)
+rdrUllldRddllUluRRuulDrrruLdDurrddrruuLLruLddLLuuuurrDDuulldddlluRlull
+ddRRlddrUddrrU
+
+
+Level 33 : David W. Skinner, Sasquatch VIII-5 (11x9,Box:8,BestMove:131)
+
+     ####
+     #  #
+  ####$ #
+### . . ###
+# $* +$*  #
+#  . . .# #
+## $# $$  #
+ ##   #  ##
+  ########
+
+Author:
+Solution/Moves (Built-in)
+dddllUluRddrruuuullDurrrruulDrdLLddrrUUdrrddldlUUlluurDRlldddllululuRRRRurrdddLruuuluurDDlldlllddrUddrrUULrdrruLUUruulDrdDlddrrruuL
+
+
+Level 34 : David W. Skinner, Sasquatch IX-26 (9x9,Box:8,BestMove:81)
+
+#########
+#   # # #
+## $$   #
+#  ...$ #
+##$.@.$##
+# $...  #
+#   $$ ##
+# # #   #
+#########
+
+Author:
+Solution/Moves 81/20 (YASO 2.139 Optimizer)
+ulluurDldRdrruurrdLulLDDrdrddlUruUlllddlluRdrRUUlulDuuurDrrDurrdLddLrd
+dlUllUdlluR
+
+
+Level 35 : David W. Skinner, Sasquatch XI-26 (10x8,Box:8,BestMove:57)
+
+  ########
+ ## .   @#
+## .$.$. #
+#  $.$* ##
+# $.$* ##
+####   #
+   #   #
+   #####
+
+Author:
+Solution/Moves (Built-in)
+llldRullldRdDlUruurrdLrDDLddrUUlUlUdldRurDrddlUdlUUlulldR
+
+
+Level 36 : David W. Skinner, Microban 95 (8x8,Box:8,BestMove:25)
+
+########
+#@     #
+# .$$. #
+# $..$ #
+# $..$ #
+# .$$. #
+#      #
+########
+
+Author:
+Solution/Moves (Built-in)
+rrDRurrddLDrddllULdlluuRU
+
+
+Level 37 : David W. Skinner, Microban II-69 (7x7,Box:8,BestMove:18)
+
+#######
+# . . #
+#.$$$.#
+# $@$ #
+#.$$$.#
+# . . #
+#######
+
+Author:
+Solution/Moves (Built-in)
+ULuRddDRdLuLUUrRDD
+
+
+Level 38 : David W. Skinner, Microban II-78 (9x9,Box:8,BestMove:89)
+
+ #######
+##     ##
+#  $.$  #
+# $#.#$ #
+##..@.. #
+# $#.#$ #
+#  $.$  #
+#   #  ##
+########
+
+Author:
+Solution/Moves (Built-in)
+uuulldRurrrdrddlllllUluRddrrrrrddlUruLLLddRdrUUruLruulullDDDuuurrdDuLulDulldRlddDlddrUUdR
+
+
+Level 39 : David W. Skinner, Microban II-112 (9x7,Box:8,BestMove:54)
+
+#########
+#   #   #
+# $...$ #
+# $*@*$ #
+# $...$ #
+#   #   #
+#########
+
+Author:
+Solution/Moves (Built-in)
+drUdlldlluRRlluuRRDullddrUluRdrrrddrruLruLLLrrruulDrdL
+
+
+Level 40 : David W. Skinner, Microban III-19 (9x8,Box:8,BestMove:73)
+
+######
+#    ##
+#.$$. ##
+# .$$. ##
+## .$$. #
+ ## .$$.#
+  ## @  #
+   ######
+
+Author:
+Solution/Moves 73/16 (YASO 2.139 Optimizer)
+rUdlluRRlllululuurrrdrdDuululllddrdrRlluluurDurrdLDuullddRdRdrdrruLULU
+LuL
+
+
+Level 41 : David W. Skinner, Microban IV-35 (9x9,Box:8,BestMove:82)
+
+ #######
+#   .   #
+# #$#$# #
+# $. .$ #
+#.#   #.#
+# $. .$ #
+# #$#$# #
+#   +   #
+ #######
+
+Author:Author: David W. Skinner
+Solution/Moves 82/22 (YASO 2.139 Optimizer)
+lUULrddrrrruuLLLrDurrddlLrruuuuuullDDDuRluurrdDuullllllddRRUdlluurRddR
+ddLUdddlluUR
+
+
+Level 42 : "YASGen 2", by Brian Damgaard (9x8,Box:8,BestMove:314)
+
+ ########
+##@$ .. #
+# $#$ *.#
+#  $  *.#
+# $  #.$#
+##  # . #
+ #      #
+ ########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 314/74 (YASO 2.139 Optimizer)
+DlddRluurDDuRRdLuluuRRDrRDrDuluurDlllullddrdrUlluurrRdrdLLLrruulDrrruL
+ddlLdlddrrruUrULLruurDllluRddrdddllluurUruullldlddRURRdLddrrruuuululll
+DlddRluururrrdrruLLrdddddllluUruRldlddrrruuUlldllluurDRRRuurrdLDDrUlll
+ldddrrrrUUlullllldRurDurrruulLDurrdddrddlllllUUruRRluurrdDllldlluRRRRl
+lluuRRRllldddddrUUluRdrUUdlluurRdR
+
+
+Level 43 : "YASGen 3", by Brian Damgaard (9x8,Box:8,BestMove:242)
+
+#########
+#   . $ #
+# $ ***@#
+##   .$ #
+#####. ##
+#    *  #
+#  $ .  #
+#########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Pushes (Built-in)
+uLLDDlluulldRdrrruurrddLddLdlLulldRRRRuLLrrruuruullLLDRdRDrdLuuluurDlllluRRdrrurrdLDuLLdRdddlluRdrUrrdLLuUUluRurrddLDlUrruulDDlluLulldRdRluurRRldLrRdrruLLddddrruLdlUlldRRurUUlDuuullddRluurrdDrruuLLddlluRlulldRRdrrrddLUddlluRdrUrrdLulldllluRRR
+
+
+Level 44 : "YASGen 7", by Brian Damgaard (9x8,Box:8,BestMove:374)
+
+   ######
+ ### ...#
+ # $ #+.#
+ #  $$**#
+## $ $ .#
+# $ #   #
+#     ###
+#######
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 374/98 (YASO 2.139 Optimizer)
+DDLddlluUddrruuLURdddlllluRuuRldddrrruulLulDrrrddllUdrruurrdLullLddrrU
+dlluurRddlllluRdrrruullulDrrruLrdddllUdlluRuRRllddrrrurruULuullDDuurrd
+drddlldllluuuuRlddrUrRDLulldddrrrUrruuLDuLLdRddllluuuRldddrrruulLulDrr
+rurrdLLLLuRdrruuullDDlluRdrRdddllUURurDrruLuurDulllDDRdrUUruLddllulldR
+RRlldddlluRdrUUddrrUUrrUUdddLuUUddlLuRRdrUlllulldRRRlllDRRRRUllldddrrU
+UluRRllldddlluRdrUUluRRR
+
+
+Level 45 : "YASGen 8", by Brian Damgaard (9x8,Box:8,BestMove:384)
+
+#######
+#.... #
+#*.## ###
+#.* #   #
+# $ $$  #
+# $$  $ #
+#@ #    #
+#########
+
+Author:Author: YASGen & Brian Damgaard
+Best Solution 384/101 (YASO 2.139 Optimizer)
+uuRUldddrURRdrrULrruulDulDuuullllDDrrDRRurrdddllUUUrrdLulDllullDRRRRur
+rdddlllUdrrruuulldLddrUdrruLUddlluRluLulldRdRRuLrddrrruulLrrddlUdlluRl
+luulluurrrrDDDLdlldlUUUrrDullddrUrrruuullllDDDrrrddrrruuuLrdddllluurUr
+rdLrddlULrruullDlllluuurrrrDDrrdddlllURdrruuulluulllldddrdRulluuurrrrd
+dDLLuLUluRRlddrddlUUUluRdddrrrurrdLLLLdlUUUddlUUrddddlUUUdrrrrrrddlUru
+LLLLdlUUdrrrrddlUruLLLrrdLLLUddlUU
+
+
+Level 46 : "YASGen 9", by Brian Damgaard (10x7,Box:8,BestMove:202)
+
+  ########
+  # *    #
+### *.$  #
+#   **$  #
+#  $.*@###
+###  .##
+  #####
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 202/71 (YASO 2.139 Optimizer)
+LURlLLuuRDuRRDLdddllUURDldRurrULuullDRlDRddlUUruurrDLulDrrrruLLdllDldd
+rUrUdlluRuulDDurRRuLdlddrrULuurrrddLLdllUluuRRdDrrruulDrdLLLuRlulldRld
+RddlUUruurRddLruulldDldlluRRRuulDrdLdlluRRuurrrdLrdrruLLrruLLL
+
+
+Level 47 : "Gaea", by Brian Damgaard (7x7,Box:8,BestMove:119)
+
+#######
+#@.   #
+#$$.$.#
+#. *$.#
+# $ *$#
+#.    #
+#######
+
+Author:Author: YASGen & Brian Damgaard
+Best Solution 119/36 (YASO 2.139 Optimizer)
+rrdDllddrrrrUULLuullDDDuuurrddLrrrddlllUlURRuurrDDLUlullDRdddrrUULrruu
+LLDlluRdrRdddlluRUdllURuulDrdddrrrULuuuLrddddlluR
+
+
+Level 48 : "Uranus", by Brian Damgaard (7x7,Box:8,BestMove:119)
+
+#######
+#+$ ..#
+#$$$$*#
+#.    #
+# * #.#
+# $  .#
+#######
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Pushes (Built-in)
+RRDDllUdrruulDldddRRUULrddlluRurrrddLLUluRluurDlddrdrruuULLDRlldldRRRlUluRuulDlDurrddlUrurrDLulDlddrUluluRRRdLulDrddllU
+
+================ IV ====================
+
+Level 49 : "Cronus", by Brian Damgaard (7x7,Box:8,BestMove:118)
+
+#######
+#. $..#
+#.$ $.#
+# $ $ #
+#$$# $#
+#. + .#
+#######
+
+Author:Author: YASGen & Brian Damgaard
+Best Solution 118/43 (YASO 2.139 Optimizer)
+rrUUULDrddllllUURRRDrdLLLUluRddrruuuuLLDDRUluRdrrDLddllUURlddrruUluulD
+rdrruLdddrUdllluluRRluurDrDDrdLuuurDDuullldRRdrU
+
+
+Level 50 : "Rhea", by Brian Damgaard (8x8,Box:8,BestMove:244)
+
+#######
+# . + #
+# #$*$##
+# $. . #
+# *$ $ #
+### * .#
+  #    #
+  ######
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 244/72 (YASO 2.139 Optimizer)
+DDrDuluulllddRRDRUrrdddllUUddrruLruulDllulluurrrrDDLLrrrdddllUURuuulll
+ldddRRRddrruLUUrDllllluuurrDDRdrruLdlLuuurrDDrdLddllURlUURDrruLuulllld
+ddRRRllluuurrDDuurrddLdLUrruullllddRRURuLdddrUrrdLulldddrrUUruLdddlluR
+luuuurrDDLUdDlddrUUUrrdLulDlddrrUU
+
+
+Level 51 : "Coeus", by Brian Damgaard (9x9,Box:8,BestMove:343)
+
+ ######
+ # .  #
+##$#. ###
+#@* .   #
+##$#**  #
+# $  .###
+# $ $ #
+#   .##
+######
+
+Author:Author: YASGen & Brian Damgaard
+Best Solution 343/87 (YASO 2.139 Optimizer)
+RRRDRddLUddllluuRRDullddrRurruLLrruUlDurrrdLLuluurDldRdddlluRlddlluuRR
+drrUUUlllDurrrdrruLLLuurDldRdddlluRdrUUUlDDuuuullDDRluurrdDrddllddlluR
+luRUUrrrdrruLLLuurDldRddlUUruulllDDDDRllddrrUdlluuruuuurrrdddddLUruuuu
+lllddddRRdrUllluuuurrrddlUruLddDDlluuRlddrruUddlllddrrUdlluuruurrddrdL
+uuurDulllddRllddrrUrUUruLLrrdrruLLdlddrUdlldlluurRRlddlUluRRdrU
+
+
+Level 52 : Yoshio Murase, Handmade 030 (9x9,Box:8,BestMove:81)
+
+  #####
+ ## @ ##
+ # .$. #
+ # * * #
+ #$ #.*#
+##  #  ##
+# $.$.$ #
+#   #   #
+#########
+
+Author:Author: Yoshio Murase
+Solution/Pushes (Built-in)
+rdrdLddddrruLdlUruUluurDluulldRlldDrURlddddlluRdrURRUddrruLLLLdlluRRRlUUlDrddlluR
+
+
+Level 53 : Yoshio Murase and Masato Hiramatsu, Handmade 036 (9x9,Box:8,BestMove:162)
+
+  #####
+ ## .@##
+ #  *  #
+ # $*$ #
+ #..#..#
+##$ . $##
+# $ # $ #
+#   #   #
+#########
+
+Author:Author: Yoshio Murase
+Solution/Moves 162/42 (YASO 2.139 Optimizer)
+drddlUddlluluurDRRddllUdrruulLrrddddrruLdlUUlluurrDrDLuulluurrDullddrU
+rrDDuLddddrruLdlUUUrDuuullldddddlluRdrUUUlDrRRuruulDulllDDrUluRdddddll
+uRUddrUUrrddrruLdlUrUL
+
+
+Level 54 : Yoshio Murase, Handmade 047 (8x9,Box:8,BestMove:97)
+
+   #####
+   #   #
+####.. #
+#      #
+#******#
+#      #
+# $$####
+# @ #
+#####
+
+Author:Author: Yoshio Murase
+Solution/Moves 97/32 (YASO 2.139 Optimizer)
+luurrrrrUUddlllllddrrUdlluurRRUUruulDDrrddLUUllllDDrrUdlluurRRuurrDDLd
+dLLuRUllldRRdddllUUdRUddrUU
+

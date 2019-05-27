@@ -1,0 +1,16 @@
+Level 1 : Advanture Level
+
+#######
+#     ####
+# # # .  ##
+# $$$**$$ #
+#....@....#
+# $$**$$$ #
+##  . # # #
+ ####     #
+    #######
+
+Author:
+Solution/Moves 138/30 (YASO 2.139 Optimizer)
+rrrrdddllllulllUluuuurrrrdrrDullDRdRRlluurrDLdlUluulldDRRldRuuullllddR
+lddrUddrrrUUlLDlluuuurrdDLruulldDrrrdrddlUlldRurrddrruULLddrrrruuLLL

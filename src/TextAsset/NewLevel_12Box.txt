@@ -1,0 +1,253 @@
+========= II ============
+
+Level 1 : Adventure AC_Easy_011 (9x9,Box:12,BestMove:186)
+
+#########
+#   #...#
+# $$@.**#
+#   #*..#
+# $$# $.#
+#   #$ .#
+# $$# $.#
+#       #
+#########
+
+Author:
+Best Solution 186/66 (YASO 2.139 Optimizer)
+rurrDulldRdDrdddlluRdrUUdlUUUUdddddllllluuuuuurDRRRuRDDDlDRddllllluurr
+UUddlluuurRRRurDDDDuuulllllddRUluRRRRurDDDlUUllldddrUUluRRRdrUlllllddd
+ddrrUUUUluRRRlldddddrrUUUddRUUdddllllUUUUluRRR
+
+Level 2 : Adventure  AC_Easy_012 (9x9,Box:12,BestMove:166)
+
+#########
+#   #...#
+# $$@.**#
+#   #*..#
+# $$#.$ #
+#   #*  #
+# $$#.$ #
+#       #
+#########
+
+Author:
+Best Solution 166/50 (YASO 2.139 Optimizer)
+rDuurrDLulDrdDrdddlllllluuuuuurDRRRurrdDlUruLdllllldddrrUUddlluuurRRRR
+drUllllllddRUluRRRRlllldddddrrrrrruuUluUlllldddrUUluRRRRddrddLUUdddlll
+UUUUluRRRlldddddlUUUUluRRR
+
+======================================================
+
+Level 3 : David W. Skinner, Sasquatch XII-26 (9x9,Box:12,BestMove:67)
+
+#######
+#  .   #
+# .$.$# #
+#.$ $.$ #
+# .$@$. #
+# $.$ $.#
+# #$.$. #
+ #   .  #
+  #######
+
+Author:
+Solution/Moves (Built-in)
+LdRuRuLuLDrdddRdrruuuuLLdlUluurrDullllddddRRUUUdLrrdrDDldlUrruulDrR
+
+
+Level 4 : David W. Skinner, Microban 146 (9x9,Box:12,BestMove:51)
+
+ #######
+##  .  ##
+# .$$$. #
+# $. .$ #
+#.$ @ $.#
+# $. .$ #
+# .$$$. #
+##  .  ##
+ #######
+
+Author:
+Solution/Moves (Built-in)
+ruUruLdrrdLrddLddlllUlluuuururDRRlddlLUdDurrrRlldDR
+
+
+Level 5 : David W. Skinner, Microban II-73 (9x9,Box:12,BestMove:45)
+
+#########
+#       #
+# .$.$. #
+# $.$.$ #
+# .$@$. #
+# $.$.$ #
+# .$.$. #
+#       #
+#########
+
+Author:
+Solution/Moves (Built-in)
+RdLdRdllluRlluurDuUluurrDrRddlLrUruurrddLrddL
+
+
+Level 6 : David W. Skinner, Microban II-74 (9x9,Box:12,BestMove:54)
+
+#########
+#       #
+# $.$.$ #
+# .$.$. #
+##$.@.$##
+# .$.$. #
+# $.$.$ #
+#       #
+#########
+
+Author:
+Solution/Moves (Built-in)
+lUlDuluurDurrDDDuuurrrdLdLdDrUdrddlUdlUUddlluUdRdllluR
+
+========= III ============
+
+Level 7 : David W. Skinner, Microban II-75 (9x9,Box:12,BestMove:61)
+
+#########
+#   #   #
+# .$.$. #
+# $.$.$ #
+##.$@$.##
+# $.$.$ #
+# .$.$. #
+#   #   #
+#########
+
+Author:
+Solution/Moves (Built-in)
+LdRuRuLuLDurRurrddLLdlddLrRUddrruuLLUlDlddlluuRRRuUlDuuullddR
+
+
+Level 8 : David W. Skinner, Microban II-76 (9x9,Box:12,BestMove:62)
+
+ ######
+ #  . ###
+## $.   #
+#  $*$$ #
+#..*@*..#
+# $$*$  #
+#   .$ ##
+### .  #
+  ######
+
+Author:
+Solution/Moves 62/18 (YASO 2.139 Optimizer)
+LrDDlUruRRdLulUUrrDulDldDldlluuuruRldRlldddrruLdlUrrrrrddlUruL
+
+
+Level 9 : David W. Skinner, Microban III-44 (8x9,Box:12,BestMove:46)
+
+  ####
+###  ###
+#      #
+# $ $ $#
+#*.*.*.#
+# $ $ $#
+#*.*.*.#
+# @    #
+########
+
+Author:
+Solution/Pushes (Built-in)
+rrrruLuUrDullUlulldRdDrRurDluuLulDruurDDurDurD
+
+
+Level 10 : David W. Skinner, Microban IV-8 (8x8,Box:12,BestMove:30)
+
+########
+# .  . #
+#.$$$$.#
+# $..$ #
+# $.+$ #
+#.$$$$.#
+# .  . #
+########
+
+Author:Author: David W. Skinner
+Solution/Moves (Built-in)
+DuuRllUddLDRdRURUrULULuLDLDlDR
+
+
+Level 11 : David W. Skinner, Microban IV-37 (9x9,Box:12,BestMove:74)
+
+  #####
+ ## . ##
+##.$ $.##
+# $ * $ #
+#. *@* .#
+# $ * $ #
+##.$ $.##
+ ## . ##
+  #####
+
+Author:Author: David W. Skinner
+Solution/Moves 74/28 (YASO 2.139 Optimizer)
+LLDrRddlUUluUrRuulDrddRRDLulDlddrrUUruULDlUddDulluuRuurrDDLUdrrddLdllu
+luuR
+
+
+Level 12 : David W. Skinner, Microban IV-38 (9x9,Box:12,BestMove:40)
+
+ #######
+##     ##
+# $.$.$ #
+# .$.$. #
+# $.@.$ #
+# .$.$. #
+# $.$.$ #
+##     ##
+ #######
+
+Author:Author: David W. Skinner
+Solution/Moves (Built-in)
+uLdDrRuUrrdLrddLdllUdllUluuRluuRurrDurrD
+
+
+========= IV ============
+
+
+Level 13 : "Tethys", by Brian Damgaard (9x7,Box:12,BestMove:272)
+
+#########
+#@$  . .#
+#**$$ * #
+# $...* #
+#. *$$  #
+## *    #
+ ########
+
+Author:Author: YASGen & Brian Damgaard
+Solution/Moves 272/84 (YASO 2.139 Optimizer)
+RRRRRlllllDDRddRRRUUUdddllluuRRllddrUdrruLrrruuLDuuLLDDRddllluuRRuurrd
+rdddLLLUUllddRluurrdLrrdrruuulullDDuurrdLDllddRRULullluurDuRRDLrrrrddL
+LUddllUURuulllddRRddrrurruuluLLLDDlluuRlddrruLrrurrdrddlldllUUddrruLrr
+ruulDuulldDRluurrdLdllluuRRDrdddlllUUrRuulDrrrrddLUrddLLLURdrU
+
+
+Level 14 : "Zeus", by Brian Damgaard (8x8,Box:12,BestMove:436)
+
+########
+#@.$ *.#
+#$$. $ #
+#.# $ *#
+# $. ..#
+#. *$$ #
+#  $.  #
+########
+
+Author:Author: YASGen & Brian Damgaard
+Best Solution 436/134 (YASO 2.139 Optimizer)
+DDDRddRRULUURuuLDrdDllluuRRurDlllddrrrrrUULLLrrrddlllUdrrruullDurrddlU
+lldRlddrUluuruulDrdrrddLLUdrruulDlllluuRRDRdLuuurDlddrrruuLLulDllddRRR
+UdllluurrDrdddlllUUrRurDluuurDrrddLUrdddLUdLLUUllddRUrRdLuuURDlddrrruu
+LLrrddlUdllulldRurRuulDrddrruLruuLDlluRuulDllDDRddRRUUUdddlluuRlluurrD
+rDLuuurDlddrrruuLLDurrddlUlldRuuulDllddRddrrUUUdddlluuRlluurrDrrrdddLL
+uURurDllLuRluurDlddrrruuLLulDlluRldddRRRURuLLLulDrrruLrdddddrrULUllUdl
+ddRRUrrdLuuLuurD
+

@@ -1,0 +1,62 @@
+========= II ============
+
+Level 1 : AC_Easy_010 (9x9,Box:11,BestMove:152)
+
+#########
+#   #...#
+# $$@.*.#
+#   #*..#
+# $$# $ #
+#   #$ .#
+# $$# $.#
+#       #
+#########
+
+Author:
+Best Solution 152/52 (YASO 2.139 Optimizer)
+rRdDrdddlllllluuuuuurDRRRurrDDlUllllldddrrUUddlluuurRRRuRDrdDllUUlllld
+dRUluRRRRdRUlllldddrUUluRRRRllllldddddrrUUUUluRRRlldddddrruUUddRUUdddl
+lllUUUUluRRR
+
+========= III ============
+
+Level 2 : Adventure "Hyperion", by Brian Damgaard (8x8,Box:11,BestMove:336)
+
+########
+#. .*  #
+# $ *  #
+## .$ *#
+## $ ..#
+#@$$**$#
+#  .   #
+########
+
+Author:Author: YASGen & Brian Damgaard Solution/Pushes (Built-in)
+Best Solution 336/102 (YASO 2.139 Optimizer)
+drUdrrULUURDrrULdllddrUdrrULuuuuLLDRlDDRUrrDLulluurrrDulllddrrdddllURd
+llluRdrruUruULDllDDRUddrrUULuuulLDDRUrrruLdlldDrrrUdllluurrDrdLddllUlU
+drdrrrUluuulldDRluurrdLdlldldRRRUrrdLuULuurDrDLddrUllLdlluRdrRuUruulll
+DDRRddlUdlluRuRlddrrurrdLulLuluurrrdrDululllddrdrrULdldlluRuuurrDDrruL
+ulllddRRUruLdrrdLddrUdlLLUluuRRururDlDDullluRldddldRurUR
+
+========= IV ============
+
+Level 3 : "Crius", by Brian Damgaard (8x8,Box:11,BestMove:380)
+
+########
+#@*    #
+#$ **$ #
+#.$ .  #
+# $.$#$#
+# *.  .#
+#  .*  #
+########
+
+Author:Author: YASGen & Brian Damgaard Solution/Pushes (Built-in)
+Solution/Moves 380/125
+DDDRUrrDLulluuRDuRRDLddddllURlUURDrrULdllddrrRUdllluurrDullddrUruuuull
+DRlDDRddlUrrrdLuluUrrrruuLDuLLDRdDLddrUllldRuruUllDRdrrrrUULLLDuruulDr
+drrddllUllluuRRDullddrddlUruUrRdLuuurDldlluuRDrddrddLUllUURDuurrDDLddr
+UluUlldRuuulDrddlddRUrrrruuLLLDuruuLDllDDRddlUrRRdLuluUluuRDrrdDLUddll
+UURuulDrdDrruLruuLDlluRdrrddlllUdrrruullDurrddlddrUluUrrrdddLruLLUlull
+dddRluuRuuulDrdrRuuLrrrDLrDDuL
