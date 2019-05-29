@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sokoban 数据转换</title>
+</head>
+<body>
+    <div>
+        <div>
+            <button onclick="import_code()">导入</button>
+            <button onclick="export_code()">导出</button>
+
+            <div>
+                <textarea id="import_code" style="resize:none"  rows="10" cols="100" 
+                    v-model="code" ></textarea>
+
+                <textarea id="export_code" style="resize:none"  rows="10" cols="100" 
+                    v-model="code" ></textarea>    
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var el_import_code = document.getElementById('import_code');
+        var el_export_code = document.getElementById('export_code');
+
+        function import_code() {
+            var LevelData_List = [];
+            var o_value = '';
+            var i_value = el_import_code.value;
+            var s_list = i_value.trim().split('\n')
+            var level_Str_List = null;
+            for (var i = 0; i < s_list.length; i++) {
+                var s = s_list[i];
+
+                if (stringHead(s, 'Level')) {
+                    if (level_Str_List != null) {
+                        var d = new LevelData(level_Str_List);
+                        LevelData_List.push(d);
+                        level_Str_List = null;
+                    }
+
+                    level_Str_List = [];
+                    level_Str_List.push(s);
+                }else{
+                    if (level_Str_List != null) {
+                        level_Str_List.push(s)
+                    } 
+                }
+
+                // o_value = o_value + s + '\n';
+            }
+
+            if (level_Str_List != null) {
+                var d = new LevelData(level_Str_List);
+                LevelData_List.push(d);
+                level_Str_List = null;
+            }
+
+            for (var i = 0; i < LevelData_List.length; i++) {
+                var d = LevelData_List[i];
+                var s = d.toKeyValueString();
+                o_value = o_value + s + '\n';
+            }
+
+            el_export_code.value = o_value;
+        }
+
+        function export_code(params) {
+            
+        }
+
+        function LevelData(s_list) {
+            var self = this;
+            self.level = 0;
+            self.col = 0;
+            self.row = 0;
+            self.box_count = 0;
+            self.best_move = 0;
+            self.solution = '';
+            self.author = '';
+            self.data = [];
+            
+            for (var i = 0; i < s_list.length; i++) {
+                var l = s_list[i];
+                if (l.trim() == '' || stringHead(l, '::::')) {
+                    continue;
+                }
+                if (stringHead(l, 'Level')) {
+                    var level = l.split(':')[0].trim().toLowerCase()
+                                 .replace('Level'.toLowerCase(), '').trim();
+                    self.level = level;
+
+
+                    var patt1 = new RegExp("\\(.*\\)");
+                    var rr = patt1.exec(l);
+                    if (rr) {
+                        var bracket = rr[0];
+                        bracket = bracket.replace('(', '')
+                        bracket = bracket.replace(')', '')
+                        var s_l = bracket.split(',');
+                        self.row = s_l[0].trim().split('x')[0]; 
+                        self.col = s_l[0].trim().split('x')[1]; 
+                        self.box_count = s_l[1].trim().split(':')[1]; 
+                        self.best_move = s_l[2].trim().split(':')[1]; 
+                    }
+                }else if (stringHead(l, 'Author')) {
+
+                }else if (stringHead(l, 'Best Solution')) {
+                }else if (stringHead(l, 'Solution')) {
+                    
+                }else if (stringHead(l, 'l') || stringHead(l, 'r') || stringHead(l, 'd') || stringHead(l, 'u')) {
+                    self.solution = l;
+                }else{
+                    self.data.push(l);
+                }
+            }
+        }
+        LevelData.prototype.toKeyValueString = function(params) {
+            var self = this
+            var s = '"Level' + self.level + '" { \n'
+            s = s + '   "level"            "' + self.level + '"\n';
+            s = s + '   "col"              "' + self.col + '"\n';
+            s = s + '   "row"              "' + self.row + '"\n';
+            s = s + '   "box_count"        "' + self.box_count + '"\n';
+            s = s + '   "best_move"        "' + self.best_move + '"\n';
+            s = s + '   "solution"         "' + self.solution + '"\n';
+            s = s + '   "author"           "' + self.author + '"\n';
+            s = s + '   "data"             ' + '{ \n';
+            for (var di = 0; di < self.data.length; di++) {
+                var l = self.data[di];
+                var ci = di + 1;
+                s = s + '       "col' + ci + '"           "' + l + '"\n';
+            }
+            s = s + '   }\n'
+            s = s + '}'
+            return s
+        };
+
+        function stringHead(s, h) {
+            return s.substring(0, h.length).toLowerCase() == h.toLowerCase()
+        }
+
+    </script>
+</body>
+</html>
