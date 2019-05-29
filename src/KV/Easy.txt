@@ -1,0 +1,2786 @@
+//:::::::::::::::::::: Easy 3~4 (151~300) :::::::::::::::::::::::::
+
+"Easy"
+{
+"start_level"		  "151"
+"end_level"			  "300"
+
+"Level151" { 
+   "level"            "151"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "86"
+   "solution"         "DDuurrdddlLulluRdrdrruuullDurrdddddllUlURRlddrruUUUruLdddlllluurDldRRRlddrruUUdllluurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ######"
+       "col2"           "###@.  #"
+       "col3"           "# $$#. #"
+       "col4"           "#   # ##"
+       "col5"           "#  .  #"
+       "col6"           "## $# #"
+       "col7"           " ##   #"
+       "col8"           "  #####"
+   }
+}
+"Level152" { 
+   "level"            "152"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "53"
+   "solution"         "DlddrrrrruLdlllluurDldRRRRuuLDuLulDlddrrRuullDldR"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           "##@ ###"
+       "col3"           "# $ $ ##"
+       "col4"           "#  # $ #"
+       "col5"           "#  . ..#"
+       "col6"           "########"
+   }
+}
+"Level153" { 
+   "level"            "153"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "95"
+   "solution"         "RRRdrUllllddrUluRRRuullDurrddlLdlUrrruurrdLulllddrrdrUllluurrDurrdLdLLrruulDulldDrR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           "##     #"
+       "col3"           "#.$#   #"
+       "col4"           "#@$  .##"
+       "col5"           "# *#  #"
+       "col6"           "#  ####"
+       "col7"           "####"
+   }
+}
+"Level154" { 
+   "level"            "154"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "52"
+   "solution"         "LLuuulldddRRRluuurrrDDlLrruullldDrdLLrrurrDLddrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#      #"
+       "col3"           "# # ##*#"
+       "col4"           "# # $  #"
+       "col5"           "#.  *@ #"
+       "col6"           "#####  #"
+       "col7"           "    #  #"
+       "col8"           "    ####"
+   }
+}
+"Level155" { 
+   "level"            "155"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "69"
+   "solution"         "DDuulldddrRRluuurrrDDLLrruullldDrdLLrrurrDLddrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#  @   #"
+       "col3"           "# #$##*#"
+       "col4"           "# #  $ #"
+       "col5"           "#.  .  #"
+       "col6"           "#####  #"
+       "col7"           "    #  #"
+       "col8"           "    ####"
+   }
+}
+"Level156" { 
+   "level"            "156"
+   "col"              "8"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "53"
+   "solution"         "ruuLDruuulDDrddLdlluuuRRlldddrruUrULuurDlddddlluRdrUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           " ##  #"
+       "col3"           "###$ #"
+       "col4"           "# .*.#"
+       "col5"           "# #$ #"
+       "col6"           "#  @ #"
+       "col7"           "#   ##"
+       "col8"           "#####"
+   }
+}
+"Level157" { 
+   "level"            "157"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "75"
+   "solution"         "dlluluurrRRllllddrdrruUruLruLuurrdrddLdllddlluluuruRldlddrdrruurruruululldD"
+   "author"           ""
+   "data"             { 
+       "col1"           "   #####"
+       "col2"           "   #   ##"
+       "col3"           " ### #  #"
+       "col4"           "##  $ # #"
+       "col5"           "#  .*.  #"
+       "col6"           "# # $  ##"
+       "col7"           "#  #@###"
+       "col8"           "##   #"
+       "col9"           " #####"
+   }
+}
+"Level158" { 
+   "level"            "158"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "56"
+   "solution"         "rRRdLulllddrrUruLrruurrddLLdlluuRlddrrurruullDlldddlluuR"
+   "author"           ""
+   "data"             { 
+       "col1"           "    #####"
+       "col2"           " ####   #"
+       "col3"           "### $ # #"
+       "col4"           "# @.*.  #"
+       "col5"           "# # $ ###"
+       "col6"           "#   ###"
+       "col7"           "##### "
+   }
+}
+"Level159" { 
+   "level"            "159"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "66"
+   "solution"         "uuLulldRDRluurDrDulldRdRldlUUruulldRurDrDrDLuulldRlddrUrrrddlUruLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   ##"
+       "col3"           "#  $ ##"
+       "col4"           "##$*. ##"
+       "col5"           " # .@  #"
+       "col6"           " #  #  #"
+       "col7"           "#####  #"
+       "col8"           "##  ####"
+   }
+}
+"Level160" { 
+   "level"            "160"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "65"
+   "solution"         "RDDuulullddrRurDrruLLdllluurrDrdLrrddLUddlluRdrUruuulldRluullddRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   ####"
+       "col3"           "# #@$  #"
+       "col4"           "#  $*. #"
+       "col5"           "####. ##"
+       "col6"           " #    #"
+       "col7"           " #   ##"
+       "col8"           " #####"
+   }
+}
+"Level161" { 
+   "level"            "161"
+   "col"              "8"
+   "row"              "10"
+   "box_count"        "3"
+   "best_move"        "91"
+   "solution"         "RDLulDrrrruLLLuurrrrrdddddllllUdrrrruuuuullllldddlluRdrRddrrrruuuuullllldDldRurDlllddrUluRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ########"
+       "col2"           "  #      #"
+       "col3"           "### #### #"
+       "col4"           "#  @$  # #"
+       "col5"           "#  $*. # #"
+       "col6"           "#  #.### #"
+       "col7"           "#  #     #"
+       "col8"           "##########"
+   }
+}
+"Level162" { 
+   "level"            "162"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "62"
+   "solution"         "ruruulDLDurrdLdLLdlUUluurDRRRddlllUluRRRllddrrrurUruulDlDurrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "     ####"
+       "col2"           "######  #"
+       "col3"           "#  ##   #"
+       "col4"           "#   $*  #"
+       "col5"           "#  #*. ##"
+       "col6"           "##  @ ##"
+       "col7"           " #  ###"
+       "col8"           " ####"
+   }
+}
+"Level163" { 
+   "level"            "163"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "50"
+   "solution"         "ddRRRllluurDldRdrruuLrddrruLdllluluurDrDurDullldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#### ###"
+       "col2"           "#@ ### #"
+       "col3"           "# $$ ###"
+       "col4"           "# $ .  #"
+       "col5"           "## ..  #"
+       "col6"           " #######"
+   }
+}
+"Level164" { 
+   "level"            "164"
+   "col"              "9"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "78"
+   "solution"         "ddRUdRdrruLuLDlluRluurDDldRRDrruLuLDlUrrddddlluRdrUUruLulldRurDllluuurDDldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  #"
+       "col3"           "#@ ###"
+       "col4"           "# $$ ##"
+       "col5"           "# $ . #"
+       "col6"           "###.. #"
+       "col7"           " #   ##"
+       "col8"           " #   #"
+       "col9"           " #####"
+   }
+}
+"Level165" { 
+   "level"            "165"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "56"
+   "solution"         "ULrddlUlUdrruLuurDDDldRuuuullldRRurDDDllUruulldRurDDldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "#    #"
+       "col4"           "## $$##"
+       "col5"           " # $@.#"
+       "col6"           " ## ..#"
+       "col7"           "  #####"
+   }
+}
+"Level166" { 
+   "level"            "166"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "47"
+   "solution"         "RdrrruulLrrddlllulldRRluuurDrrrddlUruLLLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  ####"
+       "col3"           "##  $  #"
+       "col4"           "# +*.$ #"
+       "col5"           "# $ .  #"
+       "col6"           "########"
+   }
+}
+"Level167" { 
+   "level"            "167"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "38"
+   "solution"         "ruuRuUlLdlluRRururDDrdrdLLdllU"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "  ##  #"
+       "col3"           "###   ##"
+       "col4"           "#  $.$ ##"
+       "col5"           "#  .#.  #"
+       "col6"           "###$.$  #"
+       "col7"           "  #   ###"
+       "col8"           "  #@ ##"
+       "col9"           "  ####"
+   }
+}
+"Level168" { 
+   "level"            "168"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "38"
+   "solution"         "lLddlluuRURDrruLLdllddrrUdlluurRurrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #. ###"
+       "col3"           "##*$  #"
+       "col4"           "# .$ @#"
+       "col5"           "# * ###"
+       "col6"           "#   #"
+       "col7"           "#####"
+   }
+}
+"Level169" { 
+   "level"            "169"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "36"
+   "solution"         "uuulllddRdrrurruLdldlluRRllluurDldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    ###"
+       "col3"           "# $*.$ #"
+       "col4"           "# $ .. #"
+       "col5"           "##  @###"
+       "col6"           " #####"
+   }
+}
+"Level170" { 
+   "level"            "170"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "25"
+   "solution"         "ddRUluRRldRRUlldddrUluRdR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "### .#"
+       "col3"           "#@   ##"
+       "col4"           "# $$..#"
+       "col5"           "# $ $.#"
+       "col6"           "##  ###"
+       "col7"           " ####"
+   }
+}
+"Level171" { 
+   "level"            "171"
+   "col"              "8"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "34"
+   "solution"         "RDrruLdlLddrUluLLUluurDldldRRR"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  #"
+       "col3"           "##  ######"
+       "col4"           "#  *#@*  #"
+       "col5"           "#    **  #"
+       "col6"           "##  #  ###"
+       "col7"           " ####  #"
+       "col8"           "    ####"
+   }
+}
+"Level172" { 
+   "level"            "172"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "43"
+   "solution"         "RdrruLLuulldlddrRlluurDRluurrdLddRUrrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   #"
+       "col3"           "# .$.###"
+       "col4"           "# $@$  #"
+       "col5"           "# .$.  #"
+       "col6"           "########"
+   }
+}
+"Level173" { 
+   "level"            "173"
+   "col"              "5"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "14"
+   "solution"         "ddRluurDllLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "#  #@ ##"
+       "col3"           "# $  $ #"
+       "col4"           "#.*  *.#"
+       "col5"           "########"
+   }
+}
+"Level174" { 
+   "level"            "174"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "39"
+   "solution"         "dRlddrUrULdlluurDldLdlUURdrRuulDrrrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#.# @#.#"
+       "col3"           "# $  $ #"
+       "col4"           "# $..$ #"
+       "col5"           "#  #  ##"
+       "col6"           "#######"
+   }
+}
+"Level175" { 
+   "level"            "175"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "20"
+   "solution"         "RuulldldRuurrdddrruL"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   #"
+       "col3"           "#  * ###"
+       "col4"           "# $+*  #"
+       "col5"           "#  *   #"
+       "col6"           "########"
+   }
+}
+"Level176" { 
+   "level"            "176"
+   "col"              "6"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "49"
+   "solution"         "ulllluurDldlluRRddRRurrdLulLLuurDlllddR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "###  #"
+       "col3"           "# $ $####"
+       "col4"           "# . .   #"
+       "col5"           "# $.$. @#"
+       "col6"           "#########"
+   }
+}
+"Level177" { 
+   "level"            "177"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "48"
+   "solution"         "RUURlddRUrruulDrddLLululuurDDRddrruLruL"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ####"
+       "col3"           "#  #  #"
+       "col4"           "#  *  #"
+       "col5"           "##**  #"
+       "col6"           "#@*   #"
+       "col7"           "#######"
+   }
+}
+"Level178" { 
+   "level"            "178"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "33"
+   "solution"         "urrrDRullDulldRRurrdddllURdrU"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "#     ##"
+       "col3"           "#@$***.#"
+       "col4"           "###    #"
+       "col5"           "  #   ##"
+       "col6"           "  #####"
+   }
+}
+"Level179" { 
+   "level"            "179"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "48"
+   "solution"         "dlLLuRdrruululDrrddlUdlluRdlLdlluRuRRllddrUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "    ####"
+       "col2"           "    #  ##"
+       "col3"           " ####$. #"
+       "col4"           "## $.*.@#"
+       "col5"           "#    $  #"
+       "col6"           "#   #####"
+       "col7"           "#####"
+   }
+}
+"Level180" { 
+   "level"            "180"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "49"
+   "solution"         "rrruulDrdLLuLDlddrrUdlluurDuurrdLulDllluurDRlldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#### ####"
+       "col2"           "#  ###  #"
+       "col3"           "# $ * $ #"
+       "col4"           "#   +   #"
+       "col5"           "### .$###"
+       "col6"           "  # . #"
+       "col7"           "  #####"
+   }
+}
+"Level181" { 
+   "level"            "181"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "4"
+   "best_move"        "31"
+   "solution"         "LrDDLUlluurDRlldRRlldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ###"
+       "col3"           "#  $+#"
+       "col4"           "#  $*#"
+       "col5"           "#  $.#"
+       "col6"           "# # .#"
+       "col7"           "######"
+   }
+}
+"Level182" { 
+   "level"            "182"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "27"
+   "solution"         "LuRllDrdRdrruuLLdlUddlluR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           " #     #"
+       "col3"           " # .$. #"
+       "col4"           "## $@$ #"
+       "col5"           "#  .$. #"
+       "col6"           "#      #"
+       "col7"           "########"
+   }
+}
+"Level183" { 
+   "level"            "183"
+   "col"              "6"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "36"
+   "solution"         "drUdrrURlLuurDldRdllluRluRRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "###  ####"
+       "col3"           "#       #"
+       "col4"           "#@$***. #"
+       "col5"           "#       #"
+       "col6"           "#########"
+   }
+}
+"Level184" { 
+   "level"            "184"
+   "col"              "8"
+   "row"              "6"
+   "box_count"        "4"
+   "best_move"        "26"
+   "solution"         "ddLruulDlDRllddrRdrUllUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "### @#"
+       "col3"           "#  $ #"
+       "col4"           "#  *.#"
+       "col5"           "#  *.#"
+       "col6"           "#  $ #"
+       "col7"           "###  #"
+       "col8"           "  ####"
+   }
+}
+"Level185" { 
+   "level"            "185"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "37"
+   "solution"         "rUruuLullDlddRUUdddrruUULrdddlluRdrUU"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##. .##"
+       "col3"           "# * * #"
+       "col4"           "#  #  #"
+       "col5"           "# $ $ #"
+       "col6"           "## @ ##"
+       "col7"           " #####"
+   }
+}
+"Level186" { 
+   "level"            "186"
+   "col"              "5"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "45"
+   "solution"         "rrdrrruulDrdLLruLLLullllddrrURRlldlluRRRlluRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "###########"
+       "col2"           "#    .##  #"
+       "col3"           "# $$@..$$ #"
+       "col4"           "#   ##.   #"
+       "col5"           "###########"
+   }
+}
+"Level187" { 
+   "level"            "187"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "35"
+   "solution"         "ulLulDrrrddllULrdddlluRdrUlURuUlDDD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           "  # . ##"
+       "col3"           "### $  #"
+       "col4"           "# . $#@#"
+       "col5"           "# #$ . #"
+       "col6"           "#  $ ###"
+       "col7"           "## . #"
+       "col8"           " #####"
+   }
+}
+"Level188" { 
+   "level"            "188"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "34"
+   "solution"         "ulluuurDuurrdLrrddlUddllluurDRddlU"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   ##"
+       "col3"           "# .$. #"
+       "col4"           "# $#$ #"
+       "col5"           "# .$. #"
+       "col6"           "#    ##"
+       "col7"           "## @##"
+       "col8"           " ####"
+   }
+}
+"Level189" { 
+   "level"            "189"
+   "col"              "9"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "30"
+   "solution"         "ruuUULulldRDDRddlUrrruuluLuurD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   #"
+       "col3"           "#    #"
+       "col4"           "# .$.##"
+       "col5"           "##$#$ #"
+       "col6"           " #.$. #"
+       "col7"           " #    #"
+       "col8"           " # @ ##"
+       "col9"           " #####"
+   }
+}
+"Level190" { 
+   "level"            "190"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "41"
+   "solution"         "rRRurrdLuluuuLDlluRRdrddLdlluRRUruLulldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#  $.  #"
+       "col3"           "#  $.  #"
+       "col4"           "###  ###"
+       "col5"           "#  $.  #"
+       "col6"           "#@ $.  #"
+       "col7"           "########"
+   }
+}
+"Level191" { 
+   "level"            "191"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "49"
+   "solution"         "uuulDullDRurrddddlluURlUlldRuuRRurrdLdLLrruulDrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   #####"
+       "col2"           " ###   #"
+       "col3"           "##     #"
+       "col4"           "# **$ ##"
+       "col5"           "#  * .#"
+       "col6"           "### #@#"
+       "col7"           "  #   #"
+       "col8"           "  #####"
+   }
+}
+"Level192" { 
+   "level"            "192"
+   "col"              "9"
+   "row"              "6"
+   "box_count"        "4"
+   "best_move"        "34"
+   "solution"         "llddrRlluurrDrDLrDDLUddlluRdrdrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#  @ #"
+       "col3"           "# #$ #"
+       "col4"           "# .*.#"
+       "col5"           "###$ #"
+       "col6"           "#  * #"
+       "col7"           "#    #"
+       "col8"           "###  #"
+       "col9"           "  ####"
+   }
+}
+"Level193" { 
+   "level"            "193"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "32"
+   "solution"         "LULuurDDlLDlluRdddrUrUUrrdLuuulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ######"
+       "col2"           "  ##  ##"
+       "col3"           "###   ##"
+       "col4"           "#  .*$ #"
+       "col5"           "#  *.$@#"
+       "col6"           "##   ###"
+       "col7"           "##  ##"
+       "col8"           "######"
+   }
+}
+"Level194" { 
+   "level"            "194"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "32"
+   "solution"         "rddllluUUdddrrruulLDurruullDlluR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           " #  .  #"
+       "col3"           " #  $# #"
+       "col4"           "###**@ ##"
+       "col5"           " #  $# #"
+       "col6"           " #  .  #"
+       "col7"           " #######"
+   }
+}
+"Level195" { 
+   "level"            "195"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "43"
+   "solution"         "luUruLLrrdrrddLUddldlUURdllluuuluurDDDDldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ####"
+       "col3"           "#     ###"
+       "col4"           "#  #$ . #"
+       "col5"           "## #.#$ #"
+       "col6"           "#  # @* #"
+       "col7"           "#   *  ##"
+       "col8"           "####  ##"
+       "col9"           "   ####"
+   }
+}
+"Level196" { 
+   "level"            "196"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "11"
+   "solution"         "DDLddlluuRR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           "##     #"
+       "col3"           "# ##@# #"
+       "col4"           "# ##$  #"
+       "col5"           "#  $.* #"
+       "col6"           "# # .# #"
+       "col7"           "#     ##"
+       "col8"           "#######"
+   }
+}
+"Level197" { 
+   "level"            "197"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "23"
+   "solution"         "llluuRRRlllddrrUdlluurR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           "##     #"
+       "col3"           "# ## # #"
+       "col4"           "# ##   #"
+       "col5"           "# $ .. #"
+       "col6"           "# #$*# #"
+       "col7"           "#   @ ##"
+       "col8"           "#######"
+   }
+}
+"Level198" { 
+   "level"            "198"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "16"
+   "solution"         "rddLruulDuullddR"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "# #@ #"
+       "col4"           "# $* #"
+       "col5"           "# .* #"
+       "col6"           "#    #"
+       "col7"           "######"
+   }
+}
+"Level199" { 
+   "level"            "199"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "23"
+   "solution"         "ullDLdRuurrdLLrrddlUruL"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#      #"
+       "col3"           "# .**$@#"
+       "col4"           "#      #"
+       "col5"           "#####  #"
+       "col6"           "    ####"
+   }
+}
+"Level200" { 
+   "level"            "200"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "25"
+   "solution"         "rdDullDRddrruLUddlUUddlUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "# @ #"
+       "col3"           "#...#"
+       "col4"           "#$$$##"
+       "col5"           "#    #"
+       "col6"           "#    #"
+       "col7"           "######"
+   }
+}
+"Level201" { 
+   "level"            "201"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "29"
+   "solution"         "urrdLulluurDldRlddrUrruuLLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  ###"
+       "col3"           " # $$ #"
+       "col4"           "##... #"
+       "col5"           "#  @$ #"
+       "col6"           "#   ###"
+       "col7"           "#####"
+   }
+}
+"Level202" { 
+   "level"            "202"
+   "col"              "8"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "41"
+   "solution"         "rdddlUrdddlUUlldRurrddlUruLruuulldRDuurDD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " # @ #"
+       "col3"           " #   #"
+       "col4"           "###$ #"
+       "col5"           "# ...#"
+       "col6"           "# $$ #"
+       "col7"           "###  #"
+       "col8"           "  ####"
+   }
+}
+"Level203" { 
+   "level"            "203"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "21"
+   "solution"         "luuurDldddrrUruuLLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ###"
+       "col3"           "# $$ #"
+       "col4"           "#... #"
+       "col5"           "# @$ #"
+       "col6"           "#   ##"
+       "col7"           "#####"
+   }
+}
+"Level204" { 
+   "level"            "204"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "17"
+   "solution"         "DuRurDDrddlluUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           " ##  #"
+       "col3"           "##@$.##"
+       "col4"           "# $$  #"
+       "col5"           "# . . #"
+       "col6"           "###   #"
+       "col7"           "  #####"
+   }
+}
+"Level205" { 
+   "level"            "205"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "35"
+   "solution"         "ullDullddrUrurrdLLLddrUluRuulDrrrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           "##  ###"
+       "col3"           "#     #"
+       "col4"           "#.**$@#"
+       "col5"           "#   ###"
+       "col6"           "##  #"
+       "col7"           " ####"
+   }
+}
+"Level206" { 
+   "level"            "206"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "41"
+   "solution"         "ulLrrddlLLuluurDldDrrUdrruulLLrddlluUrrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "#. #  #"
+       "col3"           "#  $  #"
+       "col4"           "#. $#@#"
+       "col5"           "#  $  #"
+       "col6"           "#. #  #"
+       "col7"           "#######"
+   }
+}
+"Level207" { 
+   "level"            "207"
+   "col"              "7"
+   "row"              "10"
+   "box_count"        "3"
+   "best_move"        "37"
+   "solution"         "llluuurrrdDuurrrrddllLrrrddlllULLrURR"
+   "author"           ""
+   "data"             { 
+       "col1"           "##########"
+       "col2"           "#        #"
+       "col3"           "# ##.### #"
+       "col4"           "# # $$ . #"
+       "col5"           "# . @$## #"
+       "col6"           "#####    #"
+       "col7"           "    ######"
+   }
+}
+"Level208" { 
+   "level"            "208"
+   "col"              "6"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "20"
+   "solution"         "UdlluRuurrdDuLDuulDD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " #   #"
+       "col3"           "##   ##"
+       "col4"           "# $$$ #"
+       "col5"           "# .+. #"
+       "col6"           "#######"
+   }
+}
+"Level209" { 
+   "level"            "209"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "45"
+   "solution"         "lluuuurrrdLullddddrrruLUUruLdddLdlUUURlddrruU"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#... #"
+       "col3"           "#  $ #"
+       "col4"           "# #$##"
+       "col5"           "#  $ #"
+       "col6"           "#  @ #"
+       "col7"           "######"
+   }
+}
+"Level210" { 
+   "level"            "210"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "44"
+   "solution"         "luluurDRDulldRddrruruuLLLrrrddlLdlUrUdrruulL"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ####"
+       "col3"           "#.*$  #"
+       "col4"           "# .$# #"
+       "col5"           "## @  #"
+       "col6"           " #   ##"
+       "col7"           " #####"
+   }
+}
+"Level211" { 
+   "level"            "211"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "37"
+   "solution"         "uurrdDrdLuuullddRRdrrddllUlURuuullddR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   ##"
+       "col3"           "# #  #"
+       "col4"           "#@$*.##"
+       "col5"           "##  . #"
+       "col6"           " # $# #"
+       "col7"           " ##   #"
+       "col8"           "  #####"
+   }
+}
+"Level212" { 
+   "level"            "212"
+   "col"              "6"
+   "row"              "10"
+   "box_count"        "3"
+   "best_move"        "48"
+   "solution"         "lLLdlluRRRRRlllluurrrDullDDrRdrrULLLrrrruulDrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           " #########"
+       "col2"           " #    #  #"
+       "col3"           "## $#$#  #"
+       "col4"           "#  .$.@  #"
+       "col5"           "#  .#    #"
+       "col6"           "##########"
+   }
+}
+"Level213" { 
+   "level"            "213"
+   "col"              "9"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "46"
+   "solution"         "luuurrdLDldddrruLUUUruulldDrddlluRdrUdddlUUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " #   #"
+       "col3"           " # . #"
+       "col4"           "## * #"
+       "col5"           "#  *##"
+       "col6"           "#  @##"
+       "col7"           "## $ #"
+       "col8"           " #   #"
+       "col9"           " #####"
+   }
+}
+"Level214" { 
+   "level"            "214"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "40"
+   "solution"         "rdLLdddrruLUluRdddlUruuullldRRurDDuurrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#   @  #"
+       "col3"           "#   *  #"
+       "col4"           "###.$###"
+       "col5"           "  # * #"
+       "col6"           "  #   #"
+       "col7"           "  #####"
+   }
+}
+"Level215" { 
+   "level"            "215"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "32"
+   "solution"         "ulllddrRllddrrUrULddlluuuurrDurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "# #$@#"
+       "col4"           "# .*.#"
+       "col5"           "# #$ #"
+       "col6"           "#    #"
+       "col7"           "######"
+   }
+}
+"Level216" { 
+   "level"            "216"
+   "col"              "6"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "23"
+   "solution"         "dllUdrruLuulldDuRDuurDD"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   #"
+       "col3"           "#   ###"
+       "col4"           "#$$$@ #"
+       "col5"           "#...  #"
+       "col6"           "#######"
+   }
+}
+"Level217" { 
+   "level"            "217"
+   "col"              "6"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "39"
+   "solution"         "drdrruLruulDLrrddllUlURddrruLLrruulDrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#.#  #"
+       "col3"           "#@$$ #"
+       "col4"           "#..$ #"
+       "col5"           "##   #"
+       "col6"           " #####"
+   }
+}
+"Level218" { 
+   "level"            "218"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "29"
+   "solution"         "rRlddrUrULdlluururDDrdLurruLL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           "##  ###"
+       "col3"           "# .$  #"
+       "col4"           "#@.$  #"
+       "col5"           "# .$ ##"
+       "col6"           "##  ##"
+       "col7"           " ####"
+   }
+}
+"Level219" { 
+   "level"            "219"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "40"
+   "solution"         "ulDrdLdlluURlluurDldRddrruruulDLLddrUdrU"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  ####"
+       "col3"           "#  #  #"
+       "col4"           "#.$**@#"
+       "col5"           "##    #"
+       "col6"           " #   ##"
+       "col7"           " #####"
+   }
+}
+"Level220" { 
+   "level"            "220"
+   "col"              "8"
+   "row"              "6"
+   "box_count"        "3"
+   "best_move"        "40"
+   "solution"         "ullDDuurrddLdddlluuRlddrruLuUrDuruullDDD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " #   #"
+       "col3"           " #$#@#"
+       "col4"           "## $ #"
+       "col5"           "#   ##"
+       "col6"           "#.*. #"
+       "col7"           "#    #"
+       "col8"           "######"
+   }
+}
+"Level221" { 
+   "level"            "221"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "42"
+   "solution"         "UrurrdLLuuuurDDlllluRRRurDldddrruLdlUdLdlU"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "####  #"
+       "col3"           "# $  $#"
+       "col4"           "#   ..##"
+       "col5"           "##..   #"
+       "col6"           " # $ $ #"
+       "col7"           " # @####"
+       "col8"           " ####"
+   }
+}
+"Level222" { 
+   "level"            "222"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "56"
+   "solution"         "urRRuruuullldDrUluRlddDlddrUUUUdddrruruuLrddrdLLLdlUUUrU"
+   "author"           ""
+   "data"             { 
+       "col1"           " ######"
+       "col2"           " #... #"
+       "col3"           " #.$$ #"
+       "col4"           "##$ # ##"
+       "col5"           "#  #   #"
+       "col6"           "#  $   #"
+       "col7"           "#@  ####"
+       "col8"           "#####"
+   }
+}
+"Level223" { 
+   "level"            "223"
+   "col"              "6"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "47"
+   "solution"         "ullldRlLLddlluluurDRRddllUdrUruRurrdLLurrrrdLLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "###########"
+       "col2"           "#   #     #"
+       "col3"           "# *..* $ @#"
+       "col4"           "#  $ ######"
+       "col5"           "##   #"
+       "col6"           " #####"
+   }
+}
+"Level224" { 
+   "level"            "224"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "34"
+   "solution"         "lLuulldRRlllddrRUruulldDrruLdrrruL"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   ###"
+       "col3"           "# .$.  #"
+       "col4"           "# $ $ @#"
+       "col5"           "# .$.###"
+       "col6"           "######"
+   }
+}
+"Level225" { 
+   "level"            "225"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "43"
+   "solution"         "lluulldDuurrdLrdrruLLullDlddRURRurrdLulullD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   ###"
+       "col3"           "#  * $ #"
+       "col4"           "# *$. @#"
+       "col5"           "#  .####"
+       "col6"           "#####"
+   }
+}
+"Level226" { 
+   "level"            "226"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "60"
+   "solution"         "llluuuulldRurrdDlUruLLrddddrUdrruLLdlUUUruLdddrUUddrruLLdlUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#....#"
+       "col3"           "# $  ###"
+       "col4"           "### $$ #"
+       "col5"           "  #  $ #"
+       "col6"           "  #   @#"
+       "col7"           "  ######"
+   }
+}
+"Level227" { 
+   "level"            "227"
+   "col"              "6"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "46"
+   "solution"         "llUdrruLuLulldRDRluurDrDulldRdRluullldRRurDurD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##   ##"
+       "col3"           "#     ##"
+       "col4"           "# $$$$ #"
+       "col5"           "###...+#"
+       "col6"           "  ######"
+   }
+}
+"Level228" { 
+   "level"            "228"
+   "col"              "9"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "56"
+   "solution"         "uuUlUlldRRRdddllUUddrruuululldRuuurDrDDDuuulldRurDDurrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  ##"
+       "col3"           "##   ###"
+       "col4"           "#  $   #"
+       "col5"           "# $.*  #"
+       "col6"           "## #.###"
+       "col7"           " #$#.#"
+       "col8"           " #  @#"
+       "col9"           " #####"
+   }
+}
+"Level229" { 
+   "level"            "229"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "49"
+   "solution"         "ulDDLLURlluurDldRdrrULLrrruulDrdLLdddrUUUruulDrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "#  #  #"
+       "col3"           "#  #  #"
+       "col4"           "#.**$@#"
+       "col5"           "#. $ ##"
+       "col6"           "###  #"
+       "col7"           "  #  #"
+       "col8"           "  ####"
+   }
+}
+"Level230" { 
+   "level"            "230"
+   "col"              "7"
+   "row"              "6"
+   "box_count"        "4"
+   "best_move"        "43"
+   "solution"         "urrdLrdddlluRUruulDulldRRlDRddlUUruulldRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "# @$.#"
+       "col4"           "##$*.#"
+       "col5"           " # $.#"
+       "col6"           " #   #"
+       "col7"           " #####"
+   }
+}
+"Level231" { 
+   "level"            "231"
+   "col"              "9"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "85"
+   "solution"         "llluUluuurrdLulDDurDDDRddlUUUUluurrdLulDrddddrrruLLdlUUUUruLddddrrruulDrdLLdlUUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#.. #"
+       "col3"           "# $ ###"
+       "col4"           "#. #  #"
+       "col5"           "#.$#$ #"
+       "col6"           "## $  #"
+       "col7"           " #   @#"
+       "col8"           " #  ###"
+       "col9"           " ####"
+   }
+}
+"Level232" { 
+   "level"            "232"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "57"
+   "solution"         "llluUddrrruulLDldRuuruulDDuulldRurrddlDlUrruulDDuulldRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "#  $ ##"
+       "col4"           "##$*  #"
+       "col5"           " # *# #"
+       "col6"           " # ..@#"
+       "col7"           " ######"
+   }
+}
+"Level233" { 
+   "level"            "233"
+   "col"              "8"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "74"
+   "solution"         "uuuluRRlddrUrUdlluRldddllllluurDldRRRRdrUUruulldRRlddlllluurDldRRRdrUUUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "       ###"
+       "col2"           "    ####.#"
+       "col3"           "##### $..#"
+       "col4"           "#   #  $.#"
+       "col5"           "# $$##  ##"
+       "col6"           "#      ##"
+       "col7"           "##### @#"
+       "col8"           "    ####"
+   }
+}
+"Level234" { 
+   "level"            "234"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "56"
+   "solution"         "dlllddRUdddrruULrdrruLLddlluUluuRDDuuurrdDDLruuulldRurDD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "##  @#"
+       "col3"           "#    #"
+       "col4"           "# $# ###"
+       "col5"           "# * *$ #"
+       "col6"           "##.#.  #"
+       "col7"           " #   ###"
+       "col8"           " #####"
+   }
+}
+"Level235" { 
+   "level"            "235"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "60"
+   "solution"         "luuulDrddllluuRRurDlllddrrUdlluurRuruulDDDlldlluRRddrrUdrruL"
+   "author"           ""
+   "data"             { 
+       "col1"           "    ####"
+       "col2"           "    #  #"
+       "col3"           "    #$ #"
+       "col4"           "#####  #"
+       "col5"           "# $ **.##"
+       "col6"           "#   #.  #"
+       "col7"           "###    @#"
+       "col8"           "  #######"
+   }
+}
+"Level236" { 
+   "level"            "236"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "76"
+   "solution"         "uuulLLulllddrUluurrdrdLuulldRDrrrrrdddllUUddrruuulLLLLrrrrrddLdlUUdrruulLLuL"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   ##"
+       "col3"           "# .  ####"
+       "col4"           "#.$. $  #"
+       "col5"           "# .## # #"
+       "col6"           "#####$$ #"
+       "col7"           "    #  @#"
+       "col8"           "    #####"
+   }
+}
+"Level237" { 
+   "level"            "237"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "44"
+   "solution"         "ddrRlluurrDrrrdddlluULrRuLrruulDrdDllddrrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "    #####"
+       "col2"           "#####  ##"
+       "col3"           "#@  #$. #"
+       "col4"           "# #* . ##"
+       "col5"           "# .$ $ #"
+       "col6"           "#### # #"
+       "col7"           "  #    #"
+       "col8"           "  ######"
+   }
+}
+"Level238" { 
+   "level"            "238"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "54"
+   "solution"         "llluulluuRRRRurrdLDDlddrUdllluRdrUllulluurDldRuurrRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "    #####"
+       "col2"           "#####   #"
+       "col3"           "# $     #"
+       "col4"           "# $###*##"
+       "col5"           "#  .#..#"
+       "col6"           "### $  #"
+       "col7"           "  #   @#"
+       "col8"           "  ######"
+   }
+}
+"Level239" { 
+   "level"            "239"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "86"
+   "solution"         "luuuuurrdLulDDDrddlUdlluRRdrUllluUdlluRuRRRdDuuurrdLulDlllddrdrRlluUluRRRDDuuurrdLulDD"
+   "author"           ""
+   "data"             { 
+       "col1"           "    #####"
+       "col2"           "#####   #"
+       "col3"           "##    $ #"
+       "col4"           "# $$# ###"
+       "col5"           "#   #..#"
+       "col6"           "### $..#"
+       "col7"           "  #   @#"
+       "col8"           "  ######"
+   }
+}
+"Level240" { 
+   "level"            "240"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "89"
+   "solution"         "uurrdddLdlUUULuRdddrruuLrddlluUlulldRddRRuuLulDrrrrddLdlUUdrruulLLuurDDrruLdllulldRRRRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "###  ###"
+       "col3"           "#   .  #"
+       "col4"           "#  $ $ #"
+       "col5"           "##.#+#.#"
+       "col6"           " # $ $ #"
+       "col7"           " ###  ##"
+       "col8"           "   ####"
+   }
+}
+"Level241" { 
+   "level"            "241"
+   "col"              "9"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "96"
+   "solution"         "dlLuUllddRluurrdDrruuLLddlluuRuRDDurrddlLuuuurDldddrruuLrddlluUddrddlUUrruullllddRRlluurrDuruulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           " ##  #"
+       "col3"           "##   ##"
+       "col4"           "#  *$ #"
+       "col5"           "# # #@#"
+       "col6"           "#  *. #"
+       "col7"           "###  ##"
+       "col8"           "  #  #"
+       "col9"           "  ####"
+   }
+}
+"Level242" { 
+   "level"            "242"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "50"
+   "solution"         "drrrUruLLDrdLLdlluRuRRdLruuulDDurrrdLdlUllDRllddrU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           "  #  ###"
+       "col3"           " ## .  #"
+       "col4"           "##@$$$ #"
+       "col5"           "# . . ##"
+       "col6"           "#   ###"
+       "col7"           "#  ##"
+       "col8"           "####"
+   }
+}
+"Level243" { 
+   "level"            "243"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "84"
+   "solution"         "drrUdlluRuRDlldddrrurruuLLulDrrrddllULrdrruulLuurDllDrddrruuLrddlluUllDRurrrddlldllU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           " ##  #"
+       "col3"           "## . ##"
+       "col4"           "#@$$$ #"
+       "col5"           "#. .# #"
+       "col6"           "# #   #"
+       "col7"           "#   ###"
+       "col8"           "#####"
+   }
+}
+"Level244" { 
+   "level"            "244"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "73"
+   "solution"         "ldlluRuRlddllluRRdrrUrUruulDlDlDururrdLdLLuRdrUdllLdlluRRRurrdLdLLuRllldR"
+   "author"           ""
+   "data"             { 
+       "col1"           "     ####"
+       "col2"           "    ##  #"
+       "col3"           "   ## . #"
+       "col4"           "#### $  #"
+       "col5"           "# $ $.@##"
+       "col6"           "#  .  ##"
+       "col7"           "#######"
+   }
+}
+"Level245" { 
+   "level"            "245"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "60"
+   "solution"         "UUddrruuLLLuurrDLdddrruuLrddlluUlUluRdlldRRRddrruuLuLDuLuurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ####"
+       "col2"           " ##  ##"
+       "col3"           "##    #"
+       "col4"           "# . .$##"
+       "col5"           "#    $ #"
+       "col6"           "####*# #"
+       "col7"           "   #@  #"
+       "col8"           "   #####"
+   }
+}
+"Level246" { 
+   "level"            "246"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "33"
+   "solution"         "DldRRddlUUluurDldRdrrUruuLLrrddlU"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "# + * #"
+       "col3"           "# $#  #"
+       "col4"           "#  .  #"
+       "col5"           "##$  ##"
+       "col6"           " #   #"
+       "col7"           " #####"
+   }
+}
+"Level247" { 
+   "level"            "247"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "85"
+   "solution"         "UUluRurrrddLLrruullldlddrdrrUdlluluururrrddLddlluUddrruuLUdrddlluluuRuRDllddrUddrruuL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ######"
+       "col2"           "##  . #"
+       "col3"           "# . # #"
+       "col4"           "# . $ #"
+       "col5"           "# $#$##"
+       "col6"           "##@  #"
+       "col7"           " #####"
+   }
+}
+"Level248" { 
+   "level"            "248"
+   "col"              "7"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "89"
+   "solution"         "DDuullDDRddlUUrRuurrddLdLUlldRurrruullllDDrrUdlluurRddlddlUUrrrdLullddrUruuullDDRdrUrruuL"
+   "author"           ""
+   "data"             { 
+       "col1"           "#######"
+       "col2"           "#  +  #"
+       "col3"           "#$#*# #"
+       "col4"           "# $   #"
+       "col5"           "#.   ##"
+       "col6"           "#  ###"
+       "col7"           "####"
+   }
+}
+"Level249" { 
+   "level"            "249"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "3"
+   "best_move"        "53"
+   "solution"         "UUluuRlddrddlUruUrruulDrdLuLDlluRRdDDlUruulldRurDrruL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "####  #"
+       "col3"           "#  *  #"
+       "col4"           "#     #"
+       "col5"           "## .###"
+       "col6"           " #$$#"
+       "col7"           " # +#"
+       "col8"           " ####"
+   }
+}
+"Level250" { 
+   "level"            "250"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "71"
+   "solution"         "LulDDurrdLdLLdlluurDDurrruulDrdLLddrUUdllluurDldRurrruulDrdLLLdlUrrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "   #  ##"
+       "col3"           "#### $@#"
+       "col4"           "#. # $ #"
+       "col5"           "#     ##"
+       "col6"           "#.  $##"
+       "col7"           "##.  #"
+       "col8"           " #####"
+   }
+}
+"Level251" { 
+   "level"            "251"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "69"
+   "solution"         "LulDDDLdlluurDDurruurrdLulDrdLLddrUUdllluurDldRurrruulDrdLLLdlUrrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "   #  ##"
+       "col3"           "#### $@#"
+       "col4"           "#. # $ #"
+       "col5"           "#  $  ##"
+       "col6"           "#.   ##"
+       "col7"           "##.  #"
+       "col8"           " #####"
+   }
+}
+"Level252" { 
+   "level"            "252"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "66"
+   "solution"         "DDDLdlluurDDurrruruLulDDrdLLddrUUdllluurDldRurrruulDrdLLLdlUrrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "   #@ ##"
+       "col3"           "####$$ #"
+       "col4"           "#. #   #"
+       "col5"           "#  $  ##"
+       "col6"           "#.   ##"
+       "col7"           "##.  #"
+       "col8"           " #####"
+   }
+}
+"Level253" { 
+   "level"            "253"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "68"
+   "solution"         "DDrdLLdlluurDDurrruruLulDDrdLLddrUUdllluurDldRurrruulDrdLLLdlUrrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           "   #@ ##"
+       "col3"           "####$$ #"
+       "col4"           "#. #   #"
+       "col5"           "#     ##"
+       "col6"           "#.  $##"
+       "col7"           "##.  #"
+       "col8"           " #####"
+   }
+}
+"Level254" { 
+   "level"            "254"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "61"
+   "solution"         "UruulDDuLLulldRDuRRdrruLLLullddrUluRdrrdddrUUruLLLLdlUdddrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#...#  #"
+       "col3"           "#   $  #"
+       "col4"           "# $# $ #"
+       "col5"           "#  # @##"
+       "col6"           "#  #  #"
+       "col7"           "#######"
+   }
+}
+"Level255" { 
+   "level"            "255"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "63"
+   "solution"         "DDllluRdllluRRdrrruulDrdLLLuRdrruulDllllddddrrrrruUUUlldRllLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           "## ## +#"
+       "col3"           "# $ $ $#"
+       "col4"           "#     .#"
+       "col5"           "#.#  # #"
+       "col6"           "# #### #"
+       "col7"           "#      #"
+       "col8"           "########"
+   }
+}
+"Level256" { 
+   "level"            "256"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "60"
+   "solution"         "UllldddrrrrrUUULuurDDlLLuRdrruulDllllddddrrrrruUUUlldRllLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #######"
+       "col2"           "## ## .#"
+       "col3"           "#      #"
+       "col4"           "#   $$.#"
+       "col5"           "#.# @# #"
+       "col6"           "# ####$#"
+       "col7"           "#      #"
+       "col8"           "########"
+   }
+}
+"Level257" { 
+   "level"            "257"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "72"
+   "solution"         "DulldRRurDurrdddddlllluurURRluurrdDDuuulllldRurDldRRDrUllldlddrrrrUdlluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#  @   #"
+       "col3"           "# $$ #.#"
+       "col4"           "# #    #"
+       "col5"           "##  #$.#"
+       "col6"           "## #  .#"
+       "col7"           "#      #"
+       "col8"           "########"
+   }
+}
+"Level258" { 
+   "level"            "258"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "67"
+   "solution"         "RRRllluurrrrdDDrddllllUUrurruullllddRRRlldddrrrruulUdrddlUdllUUluRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#      #"
+       "col3"           "# ###.##"
+       "col4"           "#@$  .##"
+       "col5"           "##  #. #"
+       "col6"           "##$$#  #"
+       "col7"           "#      #"
+       "col8"           "########"
+   }
+}
+"Level259" { 
+   "level"            "259"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "72"
+   "solution"         "DDDrddlluRdlllUUluRuRRurDDDuulllddddrrrrULdllluurUluRRurDDDDrdLLLrruuurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           " ### @#"
+       "col3"           "## $ $##"
+       "col4"           "#   #  #"
+       "col5"           "#   #  #"
+       "col6"           "##$#. .#"
+       "col7"           " #.    #"
+       "col8"           " #######"
+   }
+}
+"Level260" { 
+   "level"            "260"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "68"
+   "solution"         "LLLrrrddlUruLLullDDDrdrdrUUUluLrdrddllulldRRRdrUUruuLLdRluullDDuRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " #   ###"
+       "col3"           " #   $@#"
+       "col4"           "## #.$.#"
+       "col5"           "# . #  #"
+       "col6"           "#    $##"
+       "col7"           "####   #"
+       "col8"           "   #####"
+   }
+}
+"Level261" { 
+   "level"            "261"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "62"
+   "solution"         "UUddrruuLLUluurDrDLdddrruuLrddlluUruulllddRRUdddrruuLulDuLuurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "# #  # #"
+       "col3"           "#      #"
+       "col4"           "##. .$##"
+       "col5"           "#    $ #"
+       "col6"           "#  #*# #"
+       "col7"           "# # @  #"
+       "col8"           "########"
+   }
+}
+"Level262" { 
+   "level"            "262"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "69"
+   "solution"         "DrrrddLLLrrruulllDllddrUddrrrUluLuurrrddLLddllluuuRDlddrrruuLUdLDldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ######"
+       "col2"           "  #@   #"
+       "col3"           "###*   #"
+       "col4"           "#   ## #"
+       "col5"           "#.   $ #"
+       "col6"           "#  # $##"
+       "col7"           "#   . #"
+       "col8"           "#######"
+   }
+}
+"Level263" { 
+   "level"            "263"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "79"
+   "solution"         "DDDrruuLLddlddlluRdrUluRRuurrddLLuuulldRRddrdLLdlluRuRlddrUrUUURuLddddlluRdrUUU"
+   "author"           ""
+   "data"             { 
+       "col1"           " ######"
+       "col2"           " # .+ ##"
+       "col3"           " #  $$.#"
+       "col4"           " ### # #"
+       "col5"           "##     #"
+       "col6"           "# $   ##"
+       "col7"           "#   ###"
+       "col8"           "#####"
+   }
+}
+"Level264" { 
+   "level"            "264"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "98"
+   "solution"         "LDrdLLLuuRlddrrruuulDllullddRluurrdrrrddllldlUrrrruulllDuullddRdRUUrrrddlLrruullldlddrUrrruulDrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  #####"
+       "col3"           "#  .#  #"
+       "col4"           "# #  $@#"
+       "col5"           "# $.#$ #"
+       "col6"           "## .   #"
+       "col7"           " #  ####"
+       "col8"           " ####"
+   }
+}
+"Level265" { 
+   "level"            "265"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "3"
+   "best_move"        "98"
+   "solution"         "DDrdLLLuuRlddrrruuulDllullddRluurrdrrrddllldlUrrrruulllDuullddRdRUUrrrddlLrruullldlddrUrrruulDrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "#  #####"
+       "col3"           "#  .#@ #"
+       "col4"           "# # $$ #"
+       "col5"           "# $.#  #"
+       "col6"           "## .   #"
+       "col7"           " #  ####"
+       "col8"           " ####"
+   }
+}
+"Level266" { 
+   "level"            "266"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "71"
+   "solution"         "URdllluRdrruuullDRurrrddLdllUUluRdddlUdrrruLLuuRDlddrruruuLulDlddRluurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "   ####"
+       "col2"           " ###  ##"
+       "col3"           " #     #"
+       "col4"           "##*  # #"
+       "col5"           "# *$*. #"
+       "col6"           "#  @  ##"
+       "col7"           "#######"
+   }
+}
+"Level267" { 
+   "level"            "267"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "72"
+   "solution"         "ruRdllluRluurDDlddrruruLddlluRUrrdrruLLLrruulDrddlLuRdrUllddlluuRRRlddlU"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "#  #  ##"
+       "col3"           "# *#$.##"
+       "col4"           "# * $. #"
+       "col5"           "# @    #"
+       "col6"           "#   ####"
+       "col7"           "########"
+   }
+}
+"Level268" { 
+   "level"            "268"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "67"
+   "solution"         "ddDuurrdDLddrUUUrrdLulDlddrUUddllluRRlUUluurDDDrrruuLLrrddllluluurD"
+   "author"           ""
+   "data"             { 
+       "col1"           "####"
+       "col2"           "# @####"
+       "col3"           "#     ##"
+       "col4"           "# .#.  #"
+       "col5"           "##$$$$ #"
+       "col6"           "# . .###"
+       "col7"           "#    #"
+       "col8"           "######"
+   }
+}
+"Level269" { 
+   "level"            "269"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "77"
+   "solution"         "dddrruRdllluRluurDDldRRdrruLuLLdlUruulldRddrRdrruruLLLrruulDrdddlluRdrUUdlluR"
+   "author"           ""
+   "data"             { 
+       "col1"           "########"
+       "col2"           "# @ #  ##"
+       "col3"           "#  *#$.##"
+       "col4"           "## * $. #"
+       "col5"           "##      #"
+       "col6"           " ###   ##"
+       "col7"           "  #######"
+   }
+}
+"Level270" { 
+   "level"            "270"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "50"
+   "solution"         "LULuurDDlDLddrUUUruulDlDDrddlUlUluRddrruUrrdLuuulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ######"
+       "col2"           " ###  ##"
+       "col3"           "###   ##"
+       "col4"           "#  .*$ #"
+       "col5"           "#  *.$@#"
+       "col6"           "##   ###"
+       "col7"           " ##  # #"
+       "col8"           "  ######"
+   }
+}
+"Level271" { 
+   "level"            "271"
+   "col"              "8"
+   "row"              "6"
+   "box_count"        "4"
+   "best_move"        "57"
+   "solution"         "uuuurrddLUrdddLUlldRurruullDDrUdllddrUluRurrddLUllddrUluR"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " # . #"
+       "col3"           " # * #"
+       "col4"           "## * #"
+       "col5"           "#  * #"
+       "col6"           "# @$ #"
+       "col7"           "#  ###"
+       "col8"           "####"
+   }
+}
+"Level272" { 
+   "level"            "272"
+   "col"              "7"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "78"
+   "solution"         "rrruulDrrrruulDLdllLdlluRRRuRRdLdLLuRdrUruRurrdLdLLuRdlLdlluRuRRlldlllddrUluRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "      #####"
+       "col2"           "   ####   #"
+       "col3"           "####  $*. #"
+       "col4"           "#  $*.   ##"
+       "col5"           "# @   #####"
+       "col6"           "#  ####"
+       "col7"           "####"
+   }
+}
+"Level273" { 
+   "level"            "273"
+   "col"              "9"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "70"
+   "solution"         "lddrDluuurDurrdLLulDDDrUluRlddDlddrUrUUUddrruLdldlluRRluurDluuurDurrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           " ######"
+       "col2"           " # @  #"
+       "col3"           " # *$ #"
+       "col4"           " # .###"
+       "col5"           "## $$ #"
+       "col6"           "#  .. #"
+       "col7"           "#   ###"
+       "col8"           "#  ##"
+       "col9"           "#####"
+   }
+}
+"Level274" { 
+   "level"            "274"
+   "col"              "7"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "52"
+   "solution"         "rurDrdrruLuLrddlUllllluurDldRRRRRddlUruLLuurDldLLdlU"
+   "author"           ""
+   "data"             { 
+       "col1"           " ########"
+       "col2"           "##  #  ###"
+       "col3"           "##.$#  * ##"
+       "col4"           "#   @ * * #"
+       "col5"           "#   ##    #"
+       "col6"           "######   ##"
+       "col7"           "     #####"
+   }
+}
+"Level275" { 
+   "level"            "275"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "48"
+   "solution"         "ullullDlddrUUdRUrrrddlULLullddrUluRdrruuullDRurD"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           " #   #"
+       "col3"           "##   ###"
+       "col4"           "# **.. #"
+       "col5"           "#  $ $@#"
+       "col6"           "#  ##  #"
+       "col7"           "########"
+   }
+}
+"Level276" { 
+   "level"            "276"
+   "col"              "9"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "91"
+   "solution"         "drRdrruuulLDDRllluuRuRDrrdDlddlUrurrdLuuullllddrRRRuullDurrddlLuuuurDldddrruuLrddlluUddddrU"
+   "author"           ""
+   "data"             { 
+       "col1"           " #####"
+       "col2"           "###  #"
+       "col3"           "## * ###"
+       "col4"           "#  $  ##"
+       "col5"           "#@#$# ##"
+       "col6"           "# .$. .#"
+       "col7"           "###    #"
+       "col8"           "  #  ###"
+       "col9"           "  #####"
+   }
+}
+"Level277" { 
+   "level"            "277"
+   "col"              "9"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "53"
+   "solution"         "dldlluRUUluRRdrddLdlUUdrruululldRddrrrruuLULuurrdLulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "   #####"
+       "col2"           "   #   #"
+       "col3"           "####   #"
+       "col4"           "#  ..$##"
+       "col5"           "#  ..$ #"
+       "col6"           "##$#@# #"
+       "col7"           "# $    #"
+       "col8"           "#   ####"
+       "col9"           "#####"
+   }
+}
+"Level278" { 
+   "level"            "278"
+   "col"              "8"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "84"
+   "solution"         "ulldLLUruurRDulldddrdrruuLLruuurrdLulDDulldDrddrruuLuullddldRuuurrddLDllulldRRuRuulD"
+   "author"           ""
+   "data"             { 
+       "col1"           "     #####"
+       "col2"           "  ####   #"
+       "col3"           "  #   $  #"
+       "col4"           "###  #$###"
+       "col5"           "#  * .  #"
+       "col6"           "#   * #@#"
+       "col7"           "#####.  #"
+       "col8"           "    #####"
+   }
+}
+"Level279" { 
+   "level"            "279"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "91"
+   "solution"         "DlluRuRurrdLLDlddRUrULdddrUUluuurrdLulDDDrUdllluRRdrddlUruLuuurrdLulDDDrUllldRdRluurrdLddrU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           " ##   #"
+       "col3"           "##.$. #"
+       "col4"           "# $@$##"
+       "col5"           "# .$.#"
+       "col6"           "##   #"
+       "col7"           " ##  #"
+       "col8"           "  ####"
+   }
+}
+"Level280" { 
+   "level"            "280"
+   "col"              "8"
+   "row"              "7"
+   "box_count"        "4"
+   "best_move"        "84"
+   "solution"         "lUdrrruLulDldldRdrrUUruLululDDDRUrrdLddllURUdlluRuRDluuurDrDrdLuullddddrrUULUluurDrD"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  ##"
+       "col3"           " #   ##"
+       "col4"           "##$.$ #"
+       "col5"           "# .@. #"
+       "col6"           "# $.$##"
+       "col7"           "##   #"
+       "col8"           " #####"
+   }
+}
+"Level281" { 
+   "level"            "281"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "68"
+   "solution"         "ruuurrddLruullullddddrrUdlluuullddRluurrurrdLLrrrrddllUddllUURuulDrR"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           "###   ###"
+       "col3"           "# . $ . #"
+       "col4"           "# #.$.# #"
+       "col5"           "# $ # $ #"
+       "col6"           "### @ ###"
+       "col7"           "  #####"
+   }
+}
+"Level282" { 
+   "level"            "282"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "70"
+   "solution"         "rrruRuuullddRddllluuRRDuuurrdrrddLLLdLUUllddRluurrdrrrruullDLrurrddlLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           "  #   ###"
+       "col3"           "###.#   #"
+       "col4"           "# $.$ # #"
+       "col5"           "# #* $  #"
+       "col6"           "#@ . ####"
+       "col7"           "######"
+   }
+}
+"Level283" { 
+   "level"            "283"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "83"
+   "solution"         "uLulldldddRluuururrdLLrrrddddllUUUdddrruuuululldRdddlluuluRdddrruuLrdddrruuLrddlluU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           "###   ##"
+       "col3"           "#  . * #"
+       "col4"           "# .$.#@#"
+       "col5"           "## # $ #"
+       "col6"           " # $ # #"
+       "col7"           " ###   #"
+       "col8"           "   #####"
+   }
+}
+"Level284" { 
+   "level"            "284"
+   "col"              "7"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "60"
+   "solution"         "lluuLrddrruLdlULuullddRdRRlUlluurrrDDrrddlUruLLLdRurrddlUruL"
+   "author"           ""
+   "data"             { 
+       "col1"           "######"
+       "col2"           "#    #"
+       "col3"           "# .* ###"
+       "col4"           "# .$.$ #"
+       "col5"           "## $  @#"
+       "col6"           " ####  #"
+       "col7"           "    ####"
+   }
+}
+"Level285" { 
+   "level"            "285"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "88"
+   "solution"         "ldRdDDlddrUUUUrrrddLLrruulllluurrDLddDlddrUUUUlllddRRlluurrrRuullDurrddldDlddrUUUdrrruuL"
+   "author"           ""
+   "data"             { 
+       "col1"           "  #####"
+       "col2"           "  # @ #"
+       "col3"           "### * ###"
+       "col4"           "#  ...  #"
+       "col5"           "# ##$## #"
+       "col6"           "# $   $ #"
+       "col7"           "###   ###"
+       "col8"           "  #   #"
+       "col9"           "  #####"
+   }
+}
+"Level286" { 
+   "level"            "286"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "52"
+   "solution"         "DuullddRRuRRdddllUURlddrrurruuLLDlllluurrDRlullddrRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   #####"
+       "col3"           "# #@$.  #"
+       "col4"           "# $$ .# #"
+       "col5"           "##  #.  #"
+       "col6"           " ##   ###"
+       "col7"           "  #####"
+   }
+}
+"Level287" { 
+   "level"            "287"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "61"
+   "solution"         "DDRluullddRRurrrrddllUddllUURlddrrurruulLDlllluurrDRlullddrRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#  @#####"
+       "col3"           "# #$ .  #"
+       "col4"           "# $ $.# #"
+       "col5"           "##  #.  #"
+       "col6"           " ##   ###"
+       "col7"           "  #####"
+   }
+}
+"Level288" { 
+   "level"            "288"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "88"
+   "solution"         "DuullddRRurrdddllUdrruuurrddLruullllullddrdrdrrUUddlluURlddrrurruulLDlllluurrDRlullddrRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#   #####"
+       "col3"           "# #@ .  #"
+       "col4"           "# $$ .# #"
+       "col5"           "##  #.$ #"
+       "col6"           " ##   ###"
+       "col7"           "  #####"
+   }
+}
+"Level289" { 
+   "level"            "289"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "73"
+   "solution"         "UdlluRuRlddllluRRdrrUrUruulDlDlDururrdLdLLuRdrUdllLdlluRRRurrdLdLLuRllldR"
+   "author"           ""
+   "data"             { 
+       "col1"           "     ####"
+       "col2"           "    ##  #"
+       "col3"           "   ## . #"
+       "col4"           "####    #"
+       "col5"           "# $ $* ##"
+       "col6"           "#  . @##"
+       "col7"           "#######"
+   }
+}
+"Level290" { 
+   "level"            "290"
+   "col"              "7"
+   "row"              "9"
+   "box_count"        "3"
+   "best_move"        "73"
+   "solution"         "LdlluRuRlddllluRRdrrUrUruulDlDlDururrdLdLLuRdrUdllLdlluRRRurrdLdLLuRllldR"
+   "author"           ""
+   "data"             { 
+       "col1"           "     ####"
+       "col2"           "    ##  #"
+       "col3"           "   ## . #"
+       "col4"           "#### $  #"
+       "col5"           "# $  *@##"
+       "col6"           "#  .  ##"
+       "col7"           "#######"
+   }
+}
+"Level291" { 
+   "level"            "291"
+   "col"              "9"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "62"
+   "solution"         "RRRRRlddrruUUUruLLLLLLrrDLLddrrUdrdddlluRRRdrUUUUUruLLLLLrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "##########"
+       "col2"           "#..      #"
+       "col3"           "#..$$ #  #"
+       "col4"           "#  # ## ##"
+       "col5"           "#@$     #"
+       "col6"           "##### # #"
+       "col7"           "  # $   #"
+       "col8"           "  #     #"
+       "col9"           "  #######"
+   }
+}
+"Level292" { 
+   "level"            "292"
+   "col"              "9"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "102"
+   "solution"         "luuRRRllluuRDuRRRurrdLdddllulLDlUrrrdrruLLLLuurrRurDDulllldddlddrUUUrrrRuullllDulldRDRRRllluurDldRddlU"
+   "author"           ""
+   "data"             { 
+       "col1"           "     #####"
+       "col2"           "######   #"
+       "col3"           "#  $     #"
+       "col4"           "#  $### ##"
+       "col5"           "##.$. . .#"
+       "col6"           " # $#    #"
+       "col7"           " # @######"
+       "col8"           " #  #"
+       "col9"           " ####"
+   }
+}
+"Level293" { 
+   "level"            "293"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "144"
+   "solution"         "rdrdLurrrdLullulldDDldRRRRdrUUUruuullDlddLruururrdddlddlllluUrrRluurDRlldllddrrrruUrULLulllDDDldRRRRdrUUUruLdddlllluurrRlllddrrrruUlllluurrrurrD"
+   "author"           ""
+   "data"             { 
+       "col1"           "    #####"
+       "col2"           " ####   #"
+       "col3"           " # @ $# #"
+       "col4"           " # #....#"
+       "col5"           "##$ $ $ #"
+       "col6"           "#  ### ##"
+       "col7"           "#      #"
+       "col8"           "#####  #"
+       "col9"           "    ####"
+   }
+}
+"Level294" { 
+   "level"            "294"
+   "col"              "8"
+   "row"              "8"
+   "box_count"        "4"
+   "best_move"        "91"
+   "solution"         "ldRRddddllluurRllddrrUrrruuuLLdDLdRuuuLDDrddllluuRRllddrrUrUddllluurRuurrrdddLruuulllulldRR"
+   "author"           ""
+   "data"             { 
+       "col1"           "#####"
+       "col2"           "#  @####"
+       "col3"           "#  $.  #"
+       "col4"           "###$.# #"
+       "col5"           "#  $.# #"
+       "col6"           "# #$.  #"
+       "col7"           "#    ###"
+       "col8"           "######"
+   }
+}
+"Level295" { 
+   "level"            "295"
+   "col"              "9"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "138"
+   "solution"         "uuuuLrddddlluuRUrDDullddrdrruLLLLdlUruLuRRRuruulDDrDDuLLddrdrruLLLullddrUluuRRRurDDullddrdrruLLLuuruuulldRRurDDDDulllldRlddrUrrdrruLLLLdlU"
+   "author"           ""
+   "data"             { 
+       "col1"           "  ######"
+       "col2"           "  #    #"
+       "col3"           "  #  $ #"
+       "col4"           " ####$ #"
+       "col5"           "## $ $ #"
+       "col6"           "#....# ##"
+       "col7"           "#     @ #"
+       "col8"           "##  #   #"
+       "col9"           " ########"
+   }
+}
+"Level296" { 
+   "level"            "296"
+   "col"              "8"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "117"
+   "solution"         "lulDDDRRlluurrDRRRurrddlUruLdllllullddrddrruUddlluuRuRRRRurDllllldlddrruUlllldRurruRRRRllldddllUluRRlddrruUluRRRluRRD"
+   "author"           ""
+   "data"             { 
+       "col1"           " ####"
+       "col2"           " #  #######"
+       "col3"           " #$ @#   .#"
+       "col4"           "## #$$   .#"
+       "col5"           "#  $  ##..#"
+       "col6"           "#   # #####"
+       "col7"           "###   #"
+       "col8"           "  #####"
+   }
+}
+"Level297" { 
+   "level"            "297"
+   "col"              "8"
+   "row"              "9"
+   "box_count"        "4"
+   "best_move"        "105"
+   "solution"         "drrrUrruullDlDururrddlLdLLdlluurDldRuuuRRDrdLLrrurruullDurrddlLullldDuuruRdDrdLLrrurruululDDurrddlLulDrdL"
+   "author"           ""
+   "data"             { 
+       "col1"           "    ####"
+       "col2"           "  ###  ##"
+       "col3"           " ## $   #"
+       "col4"           "## $  # #"
+       "col5"           "# @#$$  #"
+       "col6"           "# ..  ###"
+       "col7"           "# ..###"
+       "col8"           "#####"
+   }
+}
+"Level298" { 
+   "level"            "298"
+   "col"              "9"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "146"
+   "solution"         "ddddrUluuuurrddLruulldDDDrdLdlluuuuuRldddddrruuuurruullDDDDuuulllulldRRRRldddddrrruulDLdlUUdrruuurruullDDDDrdLLdlUrrruUluuurrddLruulldDDDrdLLrrdLL"
+   "author"           ""
+   "data"             { 
+       "col1"           "##########"
+       "col2"           "#   ##   #"
+       "col3"           "# $  $@# #"
+       "col4"           "#### # $ #"
+       "col5"           "   #.#  ##"
+       "col6"           " # #.# $#"
+       "col7"           " # #.   #"
+       "col8"           " # #.   #"
+       "col9"           "   ######"
+   }
+}
+"Level299" { 
+   "level"            "299"
+   "col"              "8"
+   "row"              "11"
+   "box_count"        "4"
+   "best_move"        "149"
+   "solution"         "rrururrrddddLruulDruuulDLLLdllluurrDrrrrrddlUruLLLLdLLdlUluurrrDrrrrrddddlUUUruLLLLdLLdlluuurrrDrrrrddddlluRdrUUUruLLLLddlluLUluRdddrrruLUdLdlUUddlUU"
+   "author"           ""
+   "data"             { 
+       "col1"           "###########"
+       "col2"           "#....#    #"
+       "col3"           "#  #   $$ #"
+       "col4"           "#  @  ##  #"
+       "col5"           "#     ##$ #"
+       "col6"           "######  $ #"
+       "col7"           "     #    #"
+       "col8"           "     ######"
+   }
+}
+"Level300" { 
+   "level"            "300"
+   "col"              "9"
+   "row"              "10"
+   "box_count"        "4"
+   "best_move"        "106"
+   "solution"         "uRRRdrruLuulluurDrdddLLLuluuRRdRluurDrDDuurrdLulllllddDrrrdrruLuUddLLLulldRRRRdrUlllllddrUluRRRRllluuurrdR"
+   "author"           ""
+   "data"             { 
+       "col1"           "## ####"
+       "col2"           "####  ####"
+       "col3"           " # $ $.  #"
+       "col4"           "## #  .$ #"
+       "col5"           "#   ##.###"
+       "col6"           "#  $  . #"
+       "col7"           "# @ #   #"
+       "col8"           "#  ######"
+       "col9"           "####"
+   }
+}
+
+}
