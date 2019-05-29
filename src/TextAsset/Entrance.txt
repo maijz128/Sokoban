@@ -422,8 +422,7 @@ Level 29 : "MiniCosmos 21", by Aymeric du Peloux (7x9,Box:2,BestMove:71)
 
 Author:Author: Aymeric du Peloux
 Solution/Pushes (Built-in) Best Solution 71/26 (YASO 2.139 Optimizer)
-rruUUruLdlluurDldRurDDDLdlluRRddrruLUUUruLdlluurDldRurDDDDLdRuullldRur
-D
+rruUUruLdlluurDldRurDDDLdlluRRddrruLUUUruLdlluurDldRurDDDDLdRuullldRurD
 
 Level 30 : "MiniCosmos 25", by Aymeric du Peloux (9x9,Box:2,BestMove:81)
 
@@ -632,8 +631,7 @@ Level 44 : 35 (8x8,Box:3,BestMove:83)
 
 Author:
 Best Solution 73/23 (YASO 2.139 Optimizer)
-RRUUddlluRdrRdrUruulllDurrrddlUdlLulldRRRdrUlluuruulDDDldRRdrruuuLrddL
-LrU
+RRUUddlluRdrRdrUruulllDurrrddlUdlLulldRRRdrUlluuruulDDDldRRdrruuuLrddLLrU
 
 Level 45 : 36 (8x7,Box:3,BestMove:51)
 
@@ -809,7 +807,7 @@ uuulullDDuulldRurrrdrdddlluulUdrddrruuululLLrddrddlUUUdddrrruuululL
 ::::::::::::::::::::::: 3 Box (60 levels) :::::::::::::::::::::::::::
 
 
-Level 56
+Level 56 : xxxxx (5x7,Box:3,BestMove:15)
 
 #####
 #@$.#
@@ -824,7 +822,7 @@ Best Solution 15/5 (YASO 2.139 Optimizer)
 RldRDrddlluRdrU
 
 
-Level 57
+Level 57 : xxxxx (8x8,Box:3,BestMove:27)
 
   ####
  ##  #
@@ -840,7 +838,7 @@ Best Solution 27/6 (YASO 2.139 Optimizer)
 uuRUllldRurrrrdLdllUluururD
 
 
-Level 58
+Level 58 : xxxxx (6x5,Box:3,BestMove:0)
 
 #####
 #   #
@@ -867,7 +865,7 @@ Best Solution 11/4 (YASO 2.139 Optimizer)
 LUlldRuuurD
 
 
-Level 60
+Level 60 : xxxxx (8x6,Box:3,BestMove:0)
 
 ######
 #  ..#
@@ -881,7 +879,7 @@ Best Solution 23/8 (YASO 2.139 Optimizer)
 llUUlulldRRddrrruLLdlUU
 
 
-Level 61
+Level 61 : xxxxx (6x5,Box:3,BestMove:0)
 
 ######
 #    #
@@ -894,7 +892,7 @@ Best Solution 21/5 (YASO 2.139 Optimizer)
 llluurDurrDLdLruulldR
 
 
-Level 62
+Level 62 : xxxxx (7x6,Box:3,BestMove:0)
 
   #####
 ###.  #
@@ -965,7 +963,7 @@ Best Solution 25/8 (YASO 2.139 Optimizer)
 LdllluurDRdrddlUUrUruulDD
 
 
-Level 67
+Level 67 : xxxxx (8x7,Box:3,BestMove:0)
 
   #####
   # @ ##
@@ -1013,7 +1011,7 @@ Best Solution 30/9 (YASO 2.139 Optimizer)
 lUdlddrUUruuLDuuulldRurDDulldR
 
 
-Level 70
+Level 70 : xxxxx (7x7,Box:3,BestMove:0)
 
  ####
 ##  ##
@@ -1043,7 +1041,7 @@ Best Solution 26/7 (YASO 2.139 Optimizer)
 UruuullDlddRRdrUllluurDldR
 
 
-Level 72
+Level 72 : xxxxx (7x8,Box:3,BestMove:0)
 
    ####
   ##  #
